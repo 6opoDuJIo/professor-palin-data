@@ -1,0 +1,3525 @@
+{
+    "Frame Shift Drive - Faster boot sequence (Grade 1)":{
+        "Grid Resistors":1
+    },
+    "Frame Shift Drive - Faster boot sequence (Grade 2)":{
+        "Grid Resistors":1,
+        "Chromium":1
+    },
+    "Frame Shift Drive - Faster boot sequence (Grade 3)":{
+        "Grid Resistors":1,
+        "Heat Dispersion Plate":1,
+        "Selenium":1
+    },
+    "Frame Shift Drive - Faster boot sequence (Grade 4)":{
+        "Hybrid Capacitors":1,
+        "Heat Exchangers":1,
+        "Cadmium":1
+    },
+    "Frame Shift Drive - Faster boot sequence (Grade 5)":{
+        "Electrochemical Arrays":1,
+        "Heat Vanes":1,
+        "Tellurium":1
+    },
+    "Shield Booster - Resistance augmented (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Shield Booster - Resistance augmented (Grade 2)":{
+        "Phosphorus":1,
+        "Conductive Components":1
+    },
+    "Shield Booster - Resistance augmented (Grade 3)":{
+        "Phosphorus":1,
+        "Conductive Components":1,
+        "Focus Crystals":1
+    },
+    "Shield Booster - Resistance augmented (Grade 4)":{
+        "Manganese":1,
+        "Conductive Ceramics":1,
+        "Refined Focus Crystals":1
+    },
+    "Shield Booster - Resistance augmented (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Refined Focus Crystals":1,
+        "Imperial Shielding":1
+    },
+    "Plasma Accelerator - Lightweight (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Plasma Accelerator - Lightweight (Grade 2)":{
+        "Salvaged Alloys":1,
+        "Manganese":1
+    },
+    "Plasma Accelerator - Lightweight (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Manganese":1,
+        "Conductive Ceramics":1
+    },
+    "Plasma Accelerator - Lightweight (Grade 4)":{
+        "Conductive Components":1,
+        "Phase Alloys":1,
+        "Proto Light Alloys":1
+    },
+    "Plasma Accelerator - Lightweight (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Proto Light Alloys":1,
+        "Proto Radiolic Alloys":1
+    },
+    "Burst Laser - Focused (Grade 1)":{
+        "Iron":1
+    },
+    "Burst Laser - Focused (Grade 2)":{
+        "Iron":1,
+        "Conductive Components":1
+    },
+    "Burst Laser - Focused (Grade 3)":{
+        "Iron":1,
+        "Chromium":1,
+        "Conductive Ceramics":1
+    },
+    "Burst Laser - Focused (Grade 4)":{
+        "Germanium":1,
+        "Focus Crystals":1,
+        "Polymer Capacitors":1
+    },
+    "Burst Laser - Focused (Grade 5)":{
+        "Niobium":1,
+        "Refined Focus Crystals":1,
+        "Military Supercapacitors":1
+    },
+    "Burst Laser - Rapid fire (Grade 1)":{
+        "Mechanical Scrap":1
+    },
+    "Burst Laser - Rapid fire (Grade 2)":{
+        "Mechanical Scrap":1,
+        "Heat Dispersion Plate":1
+    },
+    "Burst Laser - Rapid fire (Grade 3)":{
+        "Specialised Legacy Firmware":1,
+        "Mechanical Equipment":1,
+        "Precipitated Alloys":1
+    },
+    "Burst Laser - Rapid fire (Grade 4)":{
+        "Modified Consumer Firmware":1,
+        "Mechanical Components":1,
+        "Thermic Alloys":1
+    },
+    "Burst Laser - Rapid fire (Grade 5)":{
+        "Precipitated Alloys":1,
+        "Configurable Components":1,
+        "Technetium":1
+    },
+    "Pulse Laser - Long range (Grade 1)":{
+        "Sulphur":1
+    },
+    "Pulse Laser - Long range (Grade 2)":{
+        "Sulphur":1,
+        "Modified Consumer Firmware":1
+    },
+    "Pulse Laser - Long range (Grade 3)":{
+        "Sulphur":1,
+        "Modified Consumer Firmware":1,
+        "Focus Crystals":1
+    },
+    "Pulse Laser - Long range (Grade 4)":{
+        "Modified Consumer Firmware":1,
+        "Focus Crystals":1,
+        "Conductive Polymers":1
+    },
+    "Pulse Laser - Long range (Grade 5)":{
+        "Cracked Industrial Firmware":1,
+        "Thermic Alloys":1,
+        "Biotech Conductors":1
+    },
+    "Pulse Laser - Rapid fire (Grade 1)":{
+        "Mechanical Scrap":1
+    },
+    "Pulse Laser - Rapid fire (Grade 2)":{
+        "Mechanical Scrap":1,
+        "Heat Dispersion Plate":1
+    },
+    "Pulse Laser - Rapid fire (Grade 3)":{
+        "Specialised Legacy Firmware":1,
+        "Mechanical Equipment":1,
+        "Precipitated Alloys":1
+    },
+    "Pulse Laser - Rapid fire (Grade 4)":{
+        "Modified Consumer Firmware":1,
+        "Mechanical Components":1,
+        "Thermic Alloys":1
+    },
+    "Pulse Laser - Rapid fire (Grade 5)":{
+        "Precipitated Alloys":1,
+        "Configurable Components":1,
+        "Technetium":1
+    },
+    "Cannon - Lightweight (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Cannon - Lightweight (Grade 2)":{
+        "Salvaged Alloys":1,
+        "Manganese":1
+    },
+    "Cannon - Lightweight (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Manganese":1,
+        "Conductive Ceramics":1
+    },
+    "Cannon - Lightweight (Grade 4)":{
+        "Conductive Components":1,
+        "Phase Alloys":1,
+        "Proto Light Alloys":1
+    },
+    "Cannon - Lightweight (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Proto Light Alloys":1,
+        "Proto Radiolic Alloys":1
+    },
+    "Cannon - Rapid fire (Grade 1)":{
+        "Mechanical Scrap":1
+    },
+    "Cannon - Rapid fire (Grade 2)":{
+        "Mechanical Scrap":1,
+        "Heat Dispersion Plate":1
+    },
+    "Cannon - Rapid fire (Grade 3)":{
+        "Specialised Legacy Firmware":1,
+        "Mechanical Equipment":1,
+        "Precipitated Alloys":1
+    },
+    "Cannon - Rapid fire (Grade 4)":{
+        "Modified Consumer Firmware":1,
+        "Mechanical Components":1,
+        "Thermic Alloys":1
+    },
+    "Cannon - Rapid fire (Grade 5)":{
+        "Precipitated Alloys":1,
+        "Configurable Components":1,
+        "Technetium":1
+    },
+    "Cannon - Sturdy (Grade 1)":{
+        "Nickel":1
+    },
+    "Cannon - Sturdy (Grade 2)":{
+        "Nickel":1,
+        "Shield Emitters":1
+    },
+    "Cannon - Sturdy (Grade 3)":{
+        "Nickel":1,
+        "Shield Emitters":1,
+        "Tungsten":1
+    },
+    "Cannon - Sturdy (Grade 4)":{
+        "Zinc":1,
+        "Tungsten":1,
+        "Molybdenum":1
+    },
+    "Cannon - Sturdy (Grade 5)":{
+        "High Density Composites":1,
+        "Molybdenum":1,
+        "Technetium":1
+    },
+    "Collector Limpet Controller - Lightweight (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Collector Limpet Controller - Lightweight (Grade 2)":{
+        "Salvaged Alloys":1,
+        "Manganese":1
+    },
+    "Collector Limpet Controller - Lightweight (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Manganese":1,
+        "Conductive Ceramics":1
+    },
+    "Collector Limpet Controller - Lightweight (Grade 4)":{
+        "Conductive Components":1,
+        "Phase Alloys":1,
+        "Proto Light Alloys":1
+    },
+    "Collector Limpet Controller - Lightweight (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Proto Light Alloys":1,
+        "Proto Radiolic Alloys":1
+    },
+    "Collector Limpet Controller - Reinforced (Grade 1)":{
+        "Nickel":1
+    },
+    "Collector Limpet Controller - Reinforced (Grade 2)":{
+        "Nickel":1,
+        "Shield Emitters":1
+    },
+    "Collector Limpet Controller - Reinforced (Grade 3)":{
+        "Nickel":1,
+        "Shield Emitters":1,
+        "Tungsten":1
+    },
+    "Collector Limpet Controller - Reinforced (Grade 4)":{
+        "Zinc":1,
+        "Tungsten":1,
+        "Molybdenum":1
+    },
+    "Collector Limpet Controller - Reinforced (Grade 5)":{
+        "High Density Composites":1,
+        "Molybdenum":1,
+        "Technetium":1
+    },
+    "Shield Booster - Thermal resistant (Grade 1)":{
+        "Iron":1
+    },
+    "Shield Booster - Thermal resistant (Grade 2)":{
+        "Heat Conduction Wiring":1,
+        "Germanium":1
+    },
+    "Shield Booster - Thermal resistant (Grade 3)":{
+        "Heat Conduction Wiring":1,
+        "Heat Dispersion Plate":1,
+        "Focus Crystals":1
+    },
+    "Shield Booster - Thermal resistant (Grade 4)":{
+        "Heat Dispersion Plate":1,
+        "Untypical Shield Scans":1,
+        "Refined Focus Crystals":1
+    },
+    "Shield Booster - Thermal resistant (Grade 5)":{
+        "Heat Exchangers":1,
+        "Aberrant Shield Pattern Analysis":1,
+        "Exquisite Focus Crystals":1
+    },
+    "Collector Limpet Controller - Shielded (Grade 1)":{
+        "Worn Shield Emitters":1
+    },
+    "Collector Limpet Controller - Shielded (Grade 2)":{
+        "Carbon":1,
+        "Shield Emitters":1
+    },
+    "Collector Limpet Controller - Shielded (Grade 3)":{
+        "Carbon":1,
+        "Shield Emitters":1,
+        "High Density Composites":1
+    },
+    "Collector Limpet Controller - Shielded (Grade 4)":{
+        "Vanadium":1,
+        "Shielding Sensors":1,
+        "Proprietary Composites":1
+    },
+    "Collector Limpet Controller - Shielded (Grade 5)":{
+        "Tungsten":1,
+        "Compound Shielding":1,
+        "Core Dynamics Composites":1
+    },
+    "Fuel Transfer Limpet Controller - Lightweight (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Fuel Transfer Limpet Controller - Lightweight (Grade 2)":{
+        "Salvaged Alloys":1,
+        "Manganese":1
+    },
+    "Fuel Transfer Limpet Controller - Lightweight (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Manganese":1,
+        "Conductive Ceramics":1
+    },
+    "Fuel Transfer Limpet Controller - Lightweight (Grade 4)":{
+        "Conductive Components":1,
+        "Phase Alloys":1,
+        "Proto Light Alloys":1
+    },
+    "Fuel Transfer Limpet Controller - Lightweight (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Proto Light Alloys":1,
+        "Proto Radiolic Alloys":1
+    },
+    "Fuel Transfer Limpet Controller - Reinforced (Grade 1)":{
+        "Nickel":1
+    },
+    "Fuel Transfer Limpet Controller - Reinforced (Grade 2)":{
+        "Nickel":1,
+        "Shield Emitters":1
+    },
+    "Fuel Transfer Limpet Controller - Reinforced (Grade 3)":{
+        "Nickel":1,
+        "Shield Emitters":1,
+        "Tungsten":1
+    },
+    "Fuel Transfer Limpet Controller - Reinforced (Grade 4)":{
+        "Zinc":1,
+        "Tungsten":1,
+        "Molybdenum":1
+    },
+    "Fuel Transfer Limpet Controller - Reinforced (Grade 5)":{
+        "High Density Composites":1,
+        "Molybdenum":1,
+        "Technetium":1
+    },
+    "Fuel Transfer Limpet Controller - Shielded (Grade 1)":{
+        "Worn Shield Emitters":1
+    },
+    "Fuel Transfer Limpet Controller - Shielded (Grade 2)":{
+        "Carbon":1,
+        "Shield Emitters":1
+    },
+    "Fuel Transfer Limpet Controller - Shielded (Grade 3)":{
+        "Carbon":1,
+        "Shield Emitters":1,
+        "High Density Composites":1
+    },
+    "Fuel Transfer Limpet Controller - Shielded (Grade 4)":{
+        "Vanadium":1,
+        "Shielding Sensors":1,
+        "Proprietary Composites":1
+    },
+    "Fuel Transfer Limpet Controller - Shielded (Grade 5)":{
+        "Tungsten":1,
+        "Compound Shielding":1,
+        "Core Dynamics Composites":1
+    },
+    "Hatch Breaker Limpet Controller - Lightweight (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Hatch Breaker Limpet Controller - Lightweight (Grade 2)":{
+        "Salvaged Alloys":1,
+        "Manganese":1
+    },
+    "Hatch Breaker Limpet Controller - Lightweight (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Manganese":1,
+        "Conductive Ceramics":1
+    },
+    "Hatch Breaker Limpet Controller - Lightweight (Grade 4)":{
+        "Conductive Components":1,
+        "Phase Alloys":1,
+        "Proto Light Alloys":1
+    },
+    "Hatch Breaker Limpet Controller - Lightweight (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Proto Light Alloys":1,
+        "Proto Radiolic Alloys":1
+    },
+    "Hatch Breaker Limpet Controller - Reinforced (Grade 1)":{
+        "Nickel":1
+    },
+    "Hatch Breaker Limpet Controller - Reinforced (Grade 2)":{
+        "Nickel":1,
+        "Shield Emitters":1
+    },
+    "Hatch Breaker Limpet Controller - Reinforced (Grade 3)":{
+        "Nickel":1,
+        "Shield Emitters":1,
+        "Tungsten":1
+    },
+    "Hatch Breaker Limpet Controller - Reinforced (Grade 4)":{
+        "Zinc":1,
+        "Tungsten":1,
+        "Molybdenum":1
+    },
+    "Hatch Breaker Limpet Controller - Reinforced (Grade 5)":{
+        "High Density Composites":1,
+        "Molybdenum":1,
+        "Technetium":1
+    },
+    "Hatch Breaker Limpet Controller - Shielded (Grade 1)":{
+        "Worn Shield Emitters":1
+    },
+    "Hatch Breaker Limpet Controller - Shielded (Grade 2)":{
+        "Carbon":1,
+        "Shield Emitters":1
+    },
+    "Hatch Breaker Limpet Controller - Shielded (Grade 3)":{
+        "Carbon":1,
+        "Shield Emitters":1,
+        "High Density Composites":1
+    },
+    "Hatch Breaker Limpet Controller - Shielded (Grade 4)":{
+        "Vanadium":1,
+        "Shielding Sensors":1,
+        "Proprietary Composites":1
+    },
+    "Hatch Breaker Limpet Controller - Shielded (Grade 5)":{
+        "Tungsten":1,
+        "Compound Shielding":1,
+        "Core Dynamics Composites":1
+    },
+    "Prospector Limpet Controller - Lightweight (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Prospector Limpet Controller - Lightweight (Grade 2)":{
+        "Salvaged Alloys":1,
+        "Manganese":1
+    },
+    "Prospector Limpet Controller - Lightweight (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Manganese":1,
+        "Conductive Ceramics":1
+    },
+    "Prospector Limpet Controller - Lightweight (Grade 4)":{
+        "Conductive Components":1,
+        "Phase Alloys":1,
+        "Proto Light Alloys":1
+    },
+    "Prospector Limpet Controller - Lightweight (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Proto Light Alloys":1,
+        "Proto Radiolic Alloys":1
+    },
+    "Prospector Limpet Controller - Reinforced (Grade 1)":{
+        "Nickel":1
+    },
+    "Prospector Limpet Controller - Reinforced (Grade 2)":{
+        "Nickel":1,
+        "Shield Emitters":1
+    },
+    "Prospector Limpet Controller - Reinforced (Grade 3)":{
+        "Nickel":1,
+        "Shield Emitters":1,
+        "Tungsten":1
+    },
+    "Prospector Limpet Controller - Reinforced (Grade 4)":{
+        "Zinc":1,
+        "Tungsten":1,
+        "Molybdenum":1
+    },
+    "Prospector Limpet Controller - Reinforced (Grade 5)":{
+        "High Density Composites":1,
+        "Molybdenum":1,
+        "Technetium":1
+    },
+    "Prospector Limpet Controller - Shielded (Grade 1)":{
+        "Worn Shield Emitters":1
+    },
+    "Prospector Limpet Controller - Shielded (Grade 2)":{
+        "Carbon":1,
+        "Shield Emitters":1
+    },
+    "Prospector Limpet Controller - Shielded (Grade 3)":{
+        "Carbon":1,
+        "Shield Emitters":1,
+        "High Density Composites":1
+    },
+    "Prospector Limpet Controller - Shielded (Grade 4)":{
+        "Vanadium":1,
+        "Shielding Sensors":1,
+        "Proprietary Composites":1
+    },
+    "Prospector Limpet Controller - Shielded (Grade 5)":{
+        "Tungsten":1,
+        "Compound Shielding":1,
+        "Core Dynamics Composites":1
+    },
+    "Power Plant - Armoured (Grade 1)":{
+        "Worn Shield Emitters":1
+    },
+    "Power Plant - Armoured (Grade 2)":{
+        "Carbon":1,
+        "Shield Emitters":1
+    },
+    "Power Plant - Armoured (Grade 3)":{
+        "Carbon":1,
+        "Shield Emitters":1,
+        "High Density Composites":1
+    },
+    "Power Plant - Armoured (Grade 4)":{
+        "Vanadium":1,
+        "Shielding Sensors":1,
+        "Proprietary Composites":1
+    },
+    "Power Plant - Armoured (Grade 5)":{
+        "Tungsten":1,
+        "Compound Shielding":1,
+        "Core Dynamics Composites":1
+    },
+    "Fragment Cannon - Rapid fire (Grade 1)":{
+        "Mechanical Scrap":1
+    },
+    "Fragment Cannon - Rapid fire (Grade 2)":{
+        "Mechanical Scrap":1,
+        "Heat Dispersion Plate":1
+    },
+    "Fragment Cannon - Rapid fire (Grade 3)":{
+        "Specialised Legacy Firmware":1,
+        "Mechanical Equipment":1,
+        "Precipitated Alloys":1
+    },
+    "Fragment Cannon - Rapid fire (Grade 4)":{
+        "Modified Consumer Firmware":1,
+        "Mechanical Components":1,
+        "Thermic Alloys":1
+    },
+    "Fragment Cannon - Rapid fire (Grade 5)":{
+        "Precipitated Alloys":1,
+        "Configurable Components":1,
+        "Technetium":1
+    },
+    "Multi-cannon - Long range (Grade 1)":{
+        "Sulphur":1
+    },
+    "Multi-cannon - Long range (Grade 2)":{
+        "Sulphur":1,
+        "Modified Consumer Firmware":1
+    },
+    "Multi-cannon - Long range (Grade 3)":{
+        "Sulphur":1,
+        "Modified Consumer Firmware":1,
+        "Focus Crystals":1
+    },
+    "Multi-cannon - Long range (Grade 4)":{
+        "Modified Consumer Firmware":1,
+        "Focus Crystals":1,
+        "Conductive Polymers":1
+    },
+    "Multi-cannon - Long range (Grade 5)":{
+        "Cracked Industrial Firmware":1,
+        "Thermic Alloys":1,
+        "Biotech Conductors":1
+    },
+    "Multi-cannon - Rapid fire (Grade 1)":{
+        "Mechanical Scrap":1
+    },
+    "Multi-cannon - Rapid fire (Grade 2)":{
+        "Mechanical Scrap":1,
+        "Heat Dispersion Plate":1
+    },
+    "Multi-cannon - Rapid fire (Grade 3)":{
+        "Specialised Legacy Firmware":1,
+        "Mechanical Equipment":1,
+        "Precipitated Alloys":1
+    },
+    "Multi-cannon - Rapid fire (Grade 4)":{
+        "Modified Consumer Firmware":1,
+        "Mechanical Components":1,
+        "Thermic Alloys":1
+    },
+    "Multi-cannon - Rapid fire (Grade 5)":{
+        "Precipitated Alloys":1,
+        "Configurable Components":1,
+        "Technetium":1
+    },
+    "Plasma Accelerator - Long range (Grade 1)":{
+        "Sulphur":1
+    },
+    "Plasma Accelerator - Long range (Grade 2)":{
+        "Sulphur":1,
+        "Modified Consumer Firmware":1
+    },
+    "Plasma Accelerator - Long range (Grade 3)":{
+        "Sulphur":1,
+        "Modified Consumer Firmware":1,
+        "Focus Crystals":1
+    },
+    "Plasma Accelerator - Long range (Grade 4)":{
+        "Modified Consumer Firmware":1,
+        "Focus Crystals":1,
+        "Conductive Polymers":1
+    },
+    "Plasma Accelerator - Long range (Grade 5)":{
+        "Cracked Industrial Firmware":1,
+        "Thermic Alloys":1,
+        "Biotech Conductors":1
+    },
+    "Plasma Accelerator - Short range (Grade 1)":{
+        "Nickel":1
+    },
+    "Plasma Accelerator - Short range (Grade 2)":{
+        "Nickel":1,
+        "Modified Consumer Firmware":1
+    },
+    "Plasma Accelerator - Short range (Grade 3)":{
+        "Nickel":1,
+        "Modified Consumer Firmware":1,
+        "Electrochemical Arrays":1
+    },
+    "Plasma Accelerator - Short range (Grade 4)":{
+        "Modified Consumer Firmware":1,
+        "Electrochemical Arrays":1,
+        "Conductive Polymers":1
+    },
+    "Plasma Accelerator - Short range (Grade 5)":{
+        "Cracked Industrial Firmware":1,
+        "Configurable Components":1,
+        "Biotech Conductors":1
+    },
+    "Auto Field-Maintenance Unit - Shielded (Grade 1)":{
+        "Worn Shield Emitters":1
+    },
+    "Auto Field-Maintenance Unit - Shielded (Grade 2)":{
+        "Carbon":1,
+        "Shield Emitters":1
+    },
+    "Auto Field-Maintenance Unit - Shielded (Grade 3)":{
+        "Carbon":1,
+        "Shield Emitters":1,
+        "High Density Composites":1
+    },
+    "Auto Field-Maintenance Unit - Shielded (Grade 4)":{
+        "Vanadium":1,
+        "Shielding Sensors":1,
+        "Proprietary Composites":1
+    },
+    "Auto Field-Maintenance Unit - Shielded (Grade 5)":{
+        "Tungsten":1,
+        "Compound Shielding":1,
+        "Core Dynamics Composites":1
+    },
+    "Manifest Scanner - Lightweight (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Manifest Scanner - Lightweight (Grade 2)":{
+        "Salvaged Alloys":1,
+        "Manganese":1
+    },
+    "Manifest Scanner - Lightweight (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Manganese":1,
+        "Conductive Ceramics":1
+    },
+    "Manifest Scanner - Lightweight (Grade 4)":{
+        "Conductive Components":1,
+        "Phase Alloys":1,
+        "Proto Light Alloys":1
+    },
+    "Manifest Scanner - Lightweight (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Proto Light Alloys":1,
+        "Proto Radiolic Alloys":1
+    },
+    "Manifest Scanner - Reinforced (Grade 1)":{
+        "Nickel":1
+    },
+    "Manifest Scanner - Reinforced (Grade 2)":{
+        "Nickel":1,
+        "Shield Emitters":1
+    },
+    "Manifest Scanner - Reinforced (Grade 3)":{
+        "Nickel":1,
+        "Shield Emitters":1,
+        "Tungsten":1
+    },
+    "Manifest Scanner - Reinforced (Grade 4)":{
+        "Zinc":1,
+        "Tungsten":1,
+        "Molybdenum":1
+    },
+    "Manifest Scanner - Reinforced (Grade 5)":{
+        "High Density Composites":1,
+        "Molybdenum":1,
+        "Technetium":1
+    },
+    "Manifest Scanner - Shielded (Grade 1)":{
+        "Worn Shield Emitters":1
+    },
+    "Manifest Scanner - Shielded (Grade 2)":{
+        "Carbon":1,
+        "Shield Emitters":1
+    },
+    "Manifest Scanner - Shielded (Grade 3)":{
+        "Carbon":1,
+        "Shield Emitters":1,
+        "High Density Composites":1
+    },
+    "Manifest Scanner - Shielded (Grade 4)":{
+        "Vanadium":1,
+        "Shielding Sensors":1,
+        "Proprietary Composites":1
+    },
+    "Manifest Scanner - Shielded (Grade 5)":{
+        "Tungsten":1,
+        "Compound Shielding":1,
+        "Core Dynamics Composites":1
+    },
+    "Fuel Scoop - Shielded (Grade 1)":{
+        "Worn Shield Emitters":1
+    },
+    "Fuel Scoop - Shielded (Grade 2)":{
+        "Carbon":1,
+        "Shield Emitters":1
+    },
+    "Fuel Scoop - Shielded (Grade 3)":{
+        "Carbon":1,
+        "Shield Emitters":1,
+        "High Density Composites":1
+    },
+    "Fuel Scoop - Shielded (Grade 4)":{
+        "Vanadium":1,
+        "Shielding Sensors":1,
+        "Proprietary Composites":1
+    },
+    "Fuel Scoop - Shielded (Grade 5)":{
+        "Tungsten":1,
+        "Compound Shielding":1,
+        "Core Dynamics Composites":1
+    },
+    "Power Plant - Overcharged (Grade 1)":{
+        "Sulphur":1
+    },
+    "Power Plant - Overcharged (Grade 2)":{
+        "Heat Conduction Wiring":1,
+        "Conductive Components":1
+    },
+    "Power Plant - Overcharged (Grade 3)":{
+        "Heat Conduction Wiring":1,
+        "Conductive Components":1,
+        "Selenium":1
+    },
+    "Power Plant - Overcharged (Grade 4)":{
+        "Heat Dispersion Plate":1,
+        "Conductive Ceramics":1,
+        "Cadmium":1
+    },
+    "Power Plant - Overcharged (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Chemical Manipulators":1,
+        "Tellurium":1
+    },
+    "Kill Warrant Scanner - Lightweight (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Kill Warrant Scanner - Lightweight (Grade 2)":{
+        "Salvaged Alloys":1,
+        "Manganese":1
+    },
+    "Kill Warrant Scanner - Lightweight (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Manganese":1,
+        "Conductive Ceramics":1
+    },
+    "Kill Warrant Scanner - Lightweight (Grade 4)":{
+        "Conductive Components":1,
+        "Phase Alloys":1,
+        "Proto Light Alloys":1
+    },
+    "Kill Warrant Scanner - Lightweight (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Proto Light Alloys":1,
+        "Proto Radiolic Alloys":1
+    },
+    "Kill Warrant Scanner - Reinforced (Grade 1)":{
+        "Nickel":1
+    },
+    "Kill Warrant Scanner - Reinforced (Grade 2)":{
+        "Nickel":1,
+        "Shield Emitters":1
+    },
+    "Kill Warrant Scanner - Reinforced (Grade 3)":{
+        "Nickel":1,
+        "Shield Emitters":1,
+        "Tungsten":1
+    },
+    "Kill Warrant Scanner - Reinforced (Grade 4)":{
+        "Zinc":1,
+        "Tungsten":1,
+        "Molybdenum":1
+    },
+    "Kill Warrant Scanner - Reinforced (Grade 5)":{
+        "High Density Composites":1,
+        "Molybdenum":1,
+        "Technetium":1
+    },
+    "Kill Warrant Scanner - Shielded (Grade 1)":{
+        "Worn Shield Emitters":1
+    },
+    "Kill Warrant Scanner - Shielded (Grade 2)":{
+        "Carbon":1,
+        "Shield Emitters":1
+    },
+    "Kill Warrant Scanner - Shielded (Grade 3)":{
+        "Carbon":1,
+        "Shield Emitters":1,
+        "High Density Composites":1
+    },
+    "Kill Warrant Scanner - Shielded (Grade 4)":{
+        "Vanadium":1,
+        "Shielding Sensors":1,
+        "Proprietary Composites":1
+    },
+    "Kill Warrant Scanner - Shielded (Grade 5)":{
+        "Tungsten":1,
+        "Compound Shielding":1,
+        "Core Dynamics Composites":1
+    },
+    "Life Support - Lightweight (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Life Support - Lightweight (Grade 2)":{
+        "Salvaged Alloys":1,
+        "Manganese":1
+    },
+    "Life Support - Lightweight (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Manganese":1,
+        "Conductive Ceramics":1
+    },
+    "Life Support - Lightweight (Grade 4)":{
+        "Conductive Components":1,
+        "Phase Alloys":1,
+        "Proto Light Alloys":1
+    },
+    "Life Support - Lightweight (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Proto Light Alloys":1,
+        "Proto Radiolic Alloys":1
+    },
+    "Life Support - Reinforced (Grade 1)":{
+        "Nickel":1
+    },
+    "Life Support - Reinforced (Grade 2)":{
+        "Nickel":1,
+        "Shield Emitters":1
+    },
+    "Life Support - Reinforced (Grade 3)":{
+        "Nickel":1,
+        "Shield Emitters":1,
+        "Tungsten":1
+    },
+    "Life Support - Reinforced (Grade 4)":{
+        "Zinc":1,
+        "Tungsten":1,
+        "Molybdenum":1
+    },
+    "Life Support - Reinforced (Grade 5)":{
+        "High Density Composites":1,
+        "Molybdenum":1,
+        "Technetium":1
+    },
+    "Life Support - Shielded (Grade 1)":{
+        "Worn Shield Emitters":1
+    },
+    "Life Support - Shielded (Grade 2)":{
+        "Carbon":1,
+        "Shield Emitters":1
+    },
+    "Life Support - Shielded (Grade 3)":{
+        "Carbon":1,
+        "Shield Emitters":1,
+        "High Density Composites":1
+    },
+    "Life Support - Shielded (Grade 4)":{
+        "Vanadium":1,
+        "Shielding Sensors":1,
+        "Proprietary Composites":1
+    },
+    "Life Support - Shielded (Grade 5)":{
+        "Tungsten":1,
+        "Compound Shielding":1,
+        "Core Dynamics Composites":1
+    },
+    "Refinery - Shielded (Grade 1)":{
+        "Worn Shield Emitters":1
+    },
+    "Refinery - Shielded (Grade 2)":{
+        "Carbon":1,
+        "Shield Emitters":1
+    },
+    "Refinery - Shielded (Grade 3)":{
+        "Carbon":1,
+        "Shield Emitters":1,
+        "High Density Composites":1
+    },
+    "Refinery - Shielded (Grade 4)":{
+        "Vanadium":1,
+        "Shielding Sensors":1,
+        "Proprietary Composites":1
+    },
+    "Refinery - Shielded (Grade 5)":{
+        "Tungsten":1,
+        "Compound Shielding":1,
+        "Core Dynamics Composites":1
+    },
+    "Frame Shift Wake Scanner - Lightweight (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Frame Shift Wake Scanner - Lightweight (Grade 2)":{
+        "Salvaged Alloys":1,
+        "Manganese":1
+    },
+    "Frame Shift Wake Scanner - Lightweight (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Manganese":1,
+        "Conductive Ceramics":1
+    },
+    "Frame Shift Wake Scanner - Lightweight (Grade 4)":{
+        "Conductive Components":1,
+        "Phase Alloys":1,
+        "Proto Light Alloys":1
+    },
+    "Frame Shift Wake Scanner - Lightweight (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Proto Light Alloys":1,
+        "Proto Radiolic Alloys":1
+    },
+    "Frame Shift Wake Scanner - Reinforced (Grade 1)":{
+        "Nickel":1
+    },
+    "Frame Shift Wake Scanner - Reinforced (Grade 2)":{
+        "Nickel":1,
+        "Shield Emitters":1
+    },
+    "Frame Shift Wake Scanner - Reinforced (Grade 3)":{
+        "Nickel":1,
+        "Shield Emitters":1,
+        "Tungsten":1
+    },
+    "Frame Shift Wake Scanner - Reinforced (Grade 4)":{
+        "Zinc":1,
+        "Tungsten":1,
+        "Molybdenum":1
+    },
+    "Frame Shift Wake Scanner - Reinforced (Grade 5)":{
+        "High Density Composites":1,
+        "Molybdenum":1,
+        "Technetium":1
+    },
+    "Frame Shift Wake Scanner - Shielded (Grade 1)":{
+        "Worn Shield Emitters":1
+    },
+    "Frame Shift Wake Scanner - Shielded (Grade 2)":{
+        "Carbon":1,
+        "Shield Emitters":1
+    },
+    "Frame Shift Wake Scanner - Shielded (Grade 3)":{
+        "Carbon":1,
+        "Shield Emitters":1,
+        "High Density Composites":1
+    },
+    "Frame Shift Wake Scanner - Shielded (Grade 4)":{
+        "Vanadium":1,
+        "Shielding Sensors":1,
+        "Proprietary Composites":1
+    },
+    "Frame Shift Wake Scanner - Shielded (Grade 5)":{
+        "Tungsten":1,
+        "Compound Shielding":1,
+        "Core Dynamics Composites":1
+    },
+    "Power Plant - Low emissions (Grade 1)":{
+        "Iron":1
+    },
+    "Power Plant - Low emissions (Grade 2)":{
+        "Iron":1,
+        "Irregular Emission Data":1
+    },
+    "Power Plant - Low emissions (Grade 3)":{
+        "Iron":1,
+        "Irregular Emission Data":1,
+        "Heat Exchangers":1
+    },
+    "Power Plant - Low emissions (Grade 4)":{
+        "Germanium":1,
+        "Unexpected Emission Data":1,
+        "Heat Vanes":1
+    },
+    "Power Plant - Low emissions (Grade 5)":{
+        "Niobium":1,
+        "Decoded Emission Data":1,
+        "Proto Heat Radiators":1
+    },
+    "Chaff Launcher - Lightweight (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Chaff Launcher - Lightweight (Grade 2)":{
+        "Salvaged Alloys":1,
+        "Manganese":1
+    },
+    "Chaff Launcher - Lightweight (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Manganese":1,
+        "Conductive Ceramics":1
+    },
+    "Chaff Launcher - Lightweight (Grade 4)":{
+        "Conductive Components":1,
+        "Phase Alloys":1,
+        "Proto Light Alloys":1
+    },
+    "Chaff Launcher - Lightweight (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Proto Light Alloys":1,
+        "Proto Radiolic Alloys":1
+    },
+    "Chaff Launcher - Reinforced (Grade 1)":{
+        "Nickel":1
+    },
+    "Chaff Launcher - Reinforced (Grade 2)":{
+        "Nickel":1,
+        "Shield Emitters":1
+    },
+    "Chaff Launcher - Reinforced (Grade 3)":{
+        "Nickel":1,
+        "Shield Emitters":1,
+        "Tungsten":1
+    },
+    "Chaff Launcher - Reinforced (Grade 4)":{
+        "Zinc":1,
+        "Tungsten":1,
+        "Molybdenum":1
+    },
+    "Chaff Launcher - Reinforced (Grade 5)":{
+        "High Density Composites":1,
+        "Molybdenum":1,
+        "Technetium":1
+    },
+    "Chaff Launcher - Shielded (Grade 1)":{
+        "Worn Shield Emitters":1
+    },
+    "Chaff Launcher - Shielded (Grade 2)":{
+        "Carbon":1,
+        "Shield Emitters":1
+    },
+    "Chaff Launcher - Shielded (Grade 3)":{
+        "Carbon":1,
+        "Shield Emitters":1,
+        "High Density Composites":1
+    },
+    "Chaff Launcher - Shielded (Grade 4)":{
+        "Vanadium":1,
+        "Shielding Sensors":1,
+        "Proprietary Composites":1
+    },
+    "Chaff Launcher - Shielded (Grade 5)":{
+        "Tungsten":1,
+        "Compound Shielding":1,
+        "Core Dynamics Composites":1
+    },
+    "Chaff Launcher - Ammo capacity (Grade 1)":{
+        "Mechanical Scrap":1
+    },
+    "Electronic Countermeasure - Lightweight (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Electronic Countermeasure - Lightweight (Grade 2)":{
+        "Salvaged Alloys":1,
+        "Manganese":1
+    },
+    "Electronic Countermeasure - Lightweight (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Manganese":1,
+        "Conductive Ceramics":1
+    },
+    "Electronic Countermeasure - Lightweight (Grade 4)":{
+        "Conductive Components":1,
+        "Phase Alloys":1,
+        "Proto Light Alloys":1
+    },
+    "Electronic Countermeasure - Lightweight (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Proto Light Alloys":1,
+        "Proto Radiolic Alloys":1
+    },
+    "Electronic Countermeasure - Reinforced (Grade 1)":{
+        "Nickel":1
+    },
+    "Electronic Countermeasure - Reinforced (Grade 2)":{
+        "Nickel":1,
+        "Shield Emitters":1
+    },
+    "Electronic Countermeasure - Reinforced (Grade 3)":{
+        "Nickel":1,
+        "Shield Emitters":1,
+        "Tungsten":1
+    },
+    "Electronic Countermeasure - Reinforced (Grade 4)":{
+        "Zinc":1,
+        "Tungsten":1,
+        "Molybdenum":1
+    },
+    "Electronic Countermeasure - Reinforced (Grade 5)":{
+        "High Density Composites":1,
+        "Molybdenum":1,
+        "Technetium":1
+    },
+    "Electronic Countermeasure - Shielded (Grade 1)":{
+        "Worn Shield Emitters":1
+    },
+    "Electronic Countermeasure - Shielded (Grade 2)":{
+        "Carbon":1,
+        "Shield Emitters":1
+    },
+    "Electronic Countermeasure - Shielded (Grade 3)":{
+        "Carbon":1,
+        "Shield Emitters":1,
+        "High Density Composites":1
+    },
+    "Electronic Countermeasure - Shielded (Grade 4)":{
+        "Vanadium":1,
+        "Shielding Sensors":1,
+        "Proprietary Composites":1
+    },
+    "Electronic Countermeasure - Shielded (Grade 5)":{
+        "Tungsten":1,
+        "Compound Shielding":1,
+        "Core Dynamics Composites":1
+    },
+    "Heat Sink Launcher - Ammo capacity (Grade 1)":{
+        "Mechanical Scrap":1,
+        "Vanadium":1,
+        "Niobium":1
+    },
+    "Heat Sink Launcher - Lightweight (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Heat Sink Launcher - Lightweight (Grade 2)":{
+        "Salvaged Alloys":1,
+        "Manganese":1
+    },
+    "Heat Sink Launcher - Lightweight (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Manganese":1,
+        "Conductive Ceramics":1
+    },
+    "Heat Sink Launcher - Lightweight (Grade 4)":{
+        "Conductive Components":1,
+        "Phase Alloys":1,
+        "Proto Light Alloys":1
+    },
+    "Heat Sink Launcher - Lightweight (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Proto Light Alloys":1,
+        "Proto Radiolic Alloys":1
+    },
+    "Heat Sink Launcher - Reinforced (Grade 1)":{
+        "Nickel":1
+    },
+    "Heat Sink Launcher - Reinforced (Grade 2)":{
+        "Nickel":1,
+        "Shield Emitters":1
+    },
+    "Heat Sink Launcher - Reinforced (Grade 3)":{
+        "Nickel":1,
+        "Shield Emitters":1,
+        "Tungsten":1
+    },
+    "Heat Sink Launcher - Reinforced (Grade 4)":{
+        "Zinc":1,
+        "Tungsten":1,
+        "Molybdenum":1
+    },
+    "Heat Sink Launcher - Reinforced (Grade 5)":{
+        "High Density Composites":1,
+        "Molybdenum":1,
+        "Technetium":1
+    },
+    "Frame Shift Drive Interdictor - Expanded capture arc (Grade 1)":{
+        "Mechanical Scrap":1
+    },
+    "Frame Shift Drive Interdictor - Expanded capture arc (Grade 2)":{
+        "Unusual Encrypted Files":1,
+        "Mechanical Equipment":1
+    },
+    "Frame Shift Drive Interdictor - Expanded capture arc (Grade 3)":{
+        "Grid Resistors":1,
+        "Tagged Encryption Codes":1,
+        "Mechanical Components":1
+    },
+    "Frame Shift Drive Interdictor - Expanded capture arc (Grade 4)":{
+        "Mechanical Equipment":1,
+        "Strange Wake Solutions":1,
+        "Divergent Scan Data":1
+    },
+    "Frame Shift Drive Interdictor - Expanded capture arc (Grade 5)":{
+        "Mechanical Components":1,
+        "Eccentric Hyperspace Trajectories":1,
+        "Classified Scan Fragment":1
+    },
+    "Heat Sink Launcher - Shielded (Grade 1)":{
+        "Worn Shield Emitters":1
+    },
+    "Heat Sink Launcher - Shielded (Grade 2)":{
+        "Carbon":1,
+        "Shield Emitters":1
+    },
+    "Heat Sink Launcher - Shielded (Grade 3)":{
+        "Carbon":1,
+        "Shield Emitters":1,
+        "High Density Composites":1
+    },
+    "Heat Sink Launcher - Shielded (Grade 4)":{
+        "Vanadium":1,
+        "Shielding Sensors":1,
+        "Proprietary Composites":1
+    },
+    "Heat Sink Launcher - Shielded (Grade 5)":{
+        "Tungsten":1,
+        "Compound Shielding":1,
+        "Core Dynamics Composites":1
+    },
+    "Point Defence - Lightweight (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Point Defence - Lightweight (Grade 2)":{
+        "Salvaged Alloys":1,
+        "Manganese":1
+    },
+    "Point Defence - Lightweight (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Manganese":1,
+        "Conductive Ceramics":1
+    },
+    "Point Defence - Lightweight (Grade 4)":{
+        "Conductive Components":1,
+        "Phase Alloys":1,
+        "Proto Light Alloys":1
+    },
+    "Point Defence - Lightweight (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Proto Light Alloys":1,
+        "Proto Radiolic Alloys":1
+    },
+    "Point Defence - Reinforced (Grade 1)":{
+        "Nickel":1
+    },
+    "Point Defence - Reinforced (Grade 2)":{
+        "Nickel":1,
+        "Shield Emitters":1
+    },
+    "Point Defence - Reinforced (Grade 3)":{
+        "Nickel":1,
+        "Shield Emitters":1,
+        "Tungsten":1
+    },
+    "Point Defence - Reinforced (Grade 4)":{
+        "Zinc":1,
+        "Tungsten":1,
+        "Molybdenum":1
+    },
+    "Point Defence - Reinforced (Grade 5)":{
+        "High Density Composites":1,
+        "Molybdenum":1,
+        "Technetium":1
+    },
+    "Point Defence - Shielded (Grade 1)":{
+        "Worn Shield Emitters":1
+    },
+    "Point Defence - Shielded (Grade 2)":{
+        "Carbon":1,
+        "Shield Emitters":1
+    },
+    "Point Defence - Shielded (Grade 3)":{
+        "Carbon":1,
+        "Shield Emitters":1,
+        "High Density Composites":1
+    },
+    "Point Defence - Shielded (Grade 4)":{
+        "Vanadium":1,
+        "Shielding Sensors":1,
+        "Proprietary Composites":1
+    },
+    "Point Defence - Shielded (Grade 5)":{
+        "Tungsten":1,
+        "Compound Shielding":1,
+        "Core Dynamics Composites":1
+    },
+    "Point Defence - Ammo capacity (Grade 1)":{
+        "Mechanical Scrap":1,
+        "Vanadium":1,
+        "Niobium":1
+    },
+    "Kill Warrant Scanner - Long range (Grade 1)":{
+        "Iron":1
+    },
+    "Kill Warrant Scanner - Long range (Grade 2)":{
+        "Iron":1,
+        "Hybrid Capacitors":1
+    },
+    "Kill Warrant Scanner - Long range (Grade 3)":{
+        "Iron":1,
+        "Hybrid Capacitors":1,
+        "Unexpected Emission Data":1
+    },
+    "Kill Warrant Scanner - Long range (Grade 4)":{
+        "Germanium":1,
+        "Electrochemical Arrays":1,
+        "Decoded Emission Data":1
+    },
+    "Kill Warrant Scanner - Long range (Grade 5)":{
+        "Niobium":1,
+        "Polymer Capacitors":1,
+        "Abnormal Compact Emissions Data":1
+    },
+    "Manifest Scanner - Fast scan (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Manifest Scanner - Fast scan (Grade 2)":{
+        "Phosphorus":1,
+        "Flawed Focus Crystals":1
+    },
+    "Manifest Scanner - Fast scan (Grade 3)":{
+        "Phosphorus":1,
+        "Flawed Focus Crystals":1,
+        "Open Symmetric Keys":1
+    },
+    "Manifest Scanner - Fast scan (Grade 4)":{
+        "Manganese":1,
+        "Focus Crystals":1,
+        "Atypical Encryption Archives":1
+    },
+    "Manifest Scanner - Fast scan (Grade 5)":{
+        "Arsenic":1,
+        "Refined Focus Crystals":1,
+        "Adaptive Encryptors Capture":1
+    },
+    "Manifest Scanner - Long range (Grade 1)":{
+        "Iron":1
+    },
+    "Manifest Scanner - Long range (Grade 2)":{
+        "Iron":1,
+        "Hybrid Capacitors":1
+    },
+    "Manifest Scanner - Long range (Grade 3)":{
+        "Iron":1,
+        "Hybrid Capacitors":1,
+        "Unexpected Emission Data":1
+    },
+    "Manifest Scanner - Long range (Grade 4)":{
+        "Germanium":1,
+        "Electrochemical Arrays":1,
+        "Decoded Emission Data":1
+    },
+    "Manifest Scanner - Long range (Grade 5)":{
+        "Niobium":1,
+        "Polymer Capacitors":1,
+        "Abnormal Compact Emissions Data":1
+    },
+    "Manifest Scanner - Wide angle (Grade 1)":{
+        "Mechanical Scrap":1
+    },
+    "Manifest Scanner - Wide angle (Grade 2)":{
+        "Mechanical Scrap":1,
+        "Germanium":1
+    },
+    "Manifest Scanner - Wide angle (Grade 3)":{
+        "Mechanical Scrap":1,
+        "Germanium":1,
+        "Classified Scan Databanks":1
+    },
+    "Manifest Scanner - Wide angle (Grade 4)":{
+        "Mechanical Equipment":1,
+        "Niobium":1,
+        "Divergent Scan Data":1
+    },
+    "Manifest Scanner - Wide angle (Grade 5)":{
+        "Mechanical Components":1,
+        "Tin":1,
+        "Classified Scan Fragment":1
+    },
+    "Kill Warrant Scanner - Fast scan (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Kill Warrant Scanner - Fast scan (Grade 2)":{
+        "Phosphorus":1,
+        "Flawed Focus Crystals":1
+    },
+    "Kill Warrant Scanner - Fast scan (Grade 3)":{
+        "Phosphorus":1,
+        "Flawed Focus Crystals":1,
+        "Open Symmetric Keys":1
+    },
+    "Kill Warrant Scanner - Fast scan (Grade 4)":{
+        "Manganese":1,
+        "Focus Crystals":1,
+        "Atypical Encryption Archives":1
+    },
+    "Kill Warrant Scanner - Fast scan (Grade 5)":{
+        "Arsenic":1,
+        "Refined Focus Crystals":1,
+        "Adaptive Encryptors Capture":1
+    },
+    "Frame Shift Drive Interdictor - Long range (Grade 1)":{
+        "Unusual Encrypted Files":1
+    },
+    "Frame Shift Drive Interdictor - Long range (Grade 2)":{
+        "Atypical Disrupted Wake Echoes":1,
+        "Tagged Encryption Codes":1
+    },
+    "Frame Shift Drive Interdictor - Long range (Grade 3)":{
+        "Anomalous Bulk Scan Data":1,
+        "Anomalous FSD Telemetry":1,
+        "Open Symmetric Keys":1
+    },
+    "Frame Shift Drive Interdictor - Long range (Grade 4)":{
+        "Unidentified Scan Archives":1,
+        "Strange Wake Solutions":1,
+        "Atypical Encryption Archives":1
+    },
+    "Frame Shift Drive Interdictor - Long range (Grade 5)":{
+        "Classified Scan Databanks":1,
+        "Eccentric Hyperspace Trajectories":1,
+        "Adaptive Encryptors Capture":1
+    },
+    "Kill Warrant Scanner - Wide angle (Grade 1)":{
+        "Mechanical Scrap":1
+    },
+    "Kill Warrant Scanner - Wide angle (Grade 2)":{
+        "Mechanical Scrap":1,
+        "Germanium":1
+    },
+    "Kill Warrant Scanner - Wide angle (Grade 3)":{
+        "Mechanical Scrap":1,
+        "Germanium":1,
+        "Classified Scan Databanks":1
+    },
+    "Kill Warrant Scanner - Wide angle (Grade 4)":{
+        "Mechanical Equipment":1,
+        "Niobium":1,
+        "Divergent Scan Data":1
+    },
+    "Kill Warrant Scanner - Wide angle (Grade 5)":{
+        "Mechanical Components":1,
+        "Tin":1,
+        "Classified Scan Fragment":1
+    },
+    "Sensors - Lightweight (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Sensors - Lightweight (Grade 2)":{
+        "Salvaged Alloys":1,
+        "Manganese":1
+    },
+    "Sensors - Lightweight (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Manganese":1,
+        "Conductive Ceramics":1
+    },
+    "Sensors - Lightweight (Grade 4)":{
+        "Conductive Components":1,
+        "Phase Alloys":1,
+        "Proto Light Alloys":1
+    },
+    "Sensors - Lightweight (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Proto Light Alloys":1,
+        "Proto Radiolic Alloys":1
+    },
+    "Sensors - Long range (Grade 1)":{
+        "Iron":1
+    },
+    "Sensors - Long range (Grade 2)":{
+        "Iron":1,
+        "Hybrid Capacitors":1
+    },
+    "Sensors - Long range (Grade 3)":{
+        "Iron":1,
+        "Hybrid Capacitors":1,
+        "Unexpected Emission Data":1
+    },
+    "Sensors - Long range (Grade 4)":{
+        "Germanium":1,
+        "Electrochemical Arrays":1,
+        "Decoded Emission Data":1
+    },
+    "Sensors - Long range (Grade 5)":{
+        "Niobium":1,
+        "Polymer Capacitors":1,
+        "Abnormal Compact Emissions Data":1
+    },
+    "Sensors - Wide angle (Grade 1)":{
+        "Mechanical Scrap":1
+    },
+    "Sensors - Wide angle (Grade 2)":{
+        "Mechanical Scrap":1,
+        "Germanium":1
+    },
+    "Sensors - Wide angle (Grade 3)":{
+        "Mechanical Scrap":1,
+        "Germanium":1,
+        "Classified Scan Databanks":1
+    },
+    "Sensors - Wide angle (Grade 4)":{
+        "Mechanical Equipment":1,
+        "Niobium":1,
+        "Divergent Scan Data":1
+    },
+    "Sensors - Wide angle (Grade 5)":{
+        "Mechanical Components":1,
+        "Tin":1,
+        "Classified Scan Fragment":1
+    },
+    "Detailed Surface Scanner - Fast scan (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Detailed Surface Scanner - Fast scan (Grade 2)":{
+        "Phosphorus":1,
+        "Flawed Focus Crystals":1
+    },
+    "Detailed Surface Scanner - Fast scan (Grade 3)":{
+        "Phosphorus":1,
+        "Flawed Focus Crystals":1,
+        "Open Symmetric Keys":1
+    },
+    "Detailed Surface Scanner - Fast scan (Grade 4)":{
+        "Manganese":1,
+        "Focus Crystals":1,
+        "Atypical Encryption Archives":1
+    },
+    "Detailed Surface Scanner - Fast scan (Grade 5)":{
+        "Arsenic":1,
+        "Refined Focus Crystals":1,
+        "Adaptive Encryptors Capture":1
+    },
+    "Detailed Surface Scanner - Long range (Grade 1)":{
+        "Iron":1
+    },
+    "Detailed Surface Scanner - Long range (Grade 2)":{
+        "Iron":1,
+        "Hybrid Capacitors":1
+    },
+    "Detailed Surface Scanner - Long range (Grade 3)":{
+        "Iron":1,
+        "Hybrid Capacitors":1,
+        "Unexpected Emission Data":1
+    },
+    "Detailed Surface Scanner - Long range (Grade 4)":{
+        "Germanium":1,
+        "Electrochemical Arrays":1,
+        "Decoded Emission Data":1
+    },
+    "Detailed Surface Scanner - Long range (Grade 5)":{
+        "Niobium":1,
+        "Polymer Capacitors":1,
+        "Abnormal Compact Emissions Data":1
+    },
+    "Detailed Surface Scanner - Wide angle (Grade 1)":{
+        "Mechanical Scrap":1
+    },
+    "Detailed Surface Scanner - Wide angle (Grade 2)":{
+        "Mechanical Scrap":1,
+        "Germanium":1
+    },
+    "Detailed Surface Scanner - Wide angle (Grade 3)":{
+        "Mechanical Scrap":1,
+        "Germanium":1,
+        "Classified Scan Databanks":1
+    },
+    "Detailed Surface Scanner - Wide angle (Grade 4)":{
+        "Mechanical Equipment":1,
+        "Niobium":1,
+        "Divergent Scan Data":1
+    },
+    "Detailed Surface Scanner - Wide angle (Grade 5)":{
+        "Mechanical Components":1,
+        "Tin":1,
+        "Classified Scan Fragment":1
+    },
+    "Frame Shift Wake Scanner - Fast scan (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Frame Shift Wake Scanner - Fast scan (Grade 2)":{
+        "Phosphorus":1,
+        "Flawed Focus Crystals":1
+    },
+    "Frame Shift Wake Scanner - Fast scan (Grade 3)":{
+        "Phosphorus":1,
+        "Flawed Focus Crystals":1,
+        "Open Symmetric Keys":1
+    },
+    "Frame Shift Wake Scanner - Fast scan (Grade 4)":{
+        "Manganese":1,
+        "Focus Crystals":1,
+        "Atypical Encryption Archives":1
+    },
+    "Frame Shift Wake Scanner - Fast scan (Grade 5)":{
+        "Arsenic":1,
+        "Refined Focus Crystals":1,
+        "Adaptive Encryptors Capture":1
+    },
+    "Frame Shift Wake Scanner - Long range (Grade 1)":{
+        "Iron":1
+    },
+    "Frame Shift Wake Scanner - Long range (Grade 2)":{
+        "Iron":1,
+        "Hybrid Capacitors":1
+    },
+    "Frame Shift Wake Scanner - Long range (Grade 3)":{
+        "Iron":1,
+        "Hybrid Capacitors":1,
+        "Unexpected Emission Data":1
+    },
+    "Frame Shift Wake Scanner - Long range (Grade 4)":{
+        "Germanium":1,
+        "Electrochemical Arrays":1,
+        "Decoded Emission Data":1
+    },
+    "Frame Shift Wake Scanner - Long range (Grade 5)":{
+        "Niobium":1,
+        "Polymer Capacitors":1,
+        "Abnormal Compact Emissions Data":1
+    },
+    "Frame Shift Wake Scanner - Wide angle (Grade 1)":{
+        "Mechanical Scrap":1
+    },
+    "Frame Shift Wake Scanner - Wide angle (Grade 2)":{
+        "Mechanical Scrap":1,
+        "Germanium":1
+    },
+    "Frame Shift Wake Scanner - Wide angle (Grade 3)":{
+        "Mechanical Scrap":1,
+        "Germanium":1,
+        "Classified Scan Databanks":1
+    },
+    "Frame Shift Wake Scanner - Wide angle (Grade 4)":{
+        "Mechanical Equipment":1,
+        "Niobium":1,
+        "Divergent Scan Data":1
+    },
+    "Frame Shift Wake Scanner - Wide angle (Grade 5)":{
+        "Mechanical Components":1,
+        "Tin":1,
+        "Classified Scan Fragment":1
+    },
+    "Shield Cell Bank - Rapid charge (Grade 1)":{
+        "Sulphur":1
+    },
+    "Shield Cell Bank - Rapid charge (Grade 2)":{
+        "Grid Resistors":1,
+        "Chromium":1
+    },
+    "Shield Cell Bank - Rapid charge (Grade 3)":{
+        "Sulphur":1,
+        "Hybrid Capacitors":1,
+        "Precipitated Alloys":1
+    },
+    "Shield Cell Bank - Rapid charge (Grade 4)":{
+        "Chromium":1,
+        "Electrochemical Arrays":1,
+        "Thermic Alloys":1
+    },
+    "Beam Laser - Efficient (Grade 1)":{
+        "Sulphur":1
+    },
+    "Beam Laser - Efficient (Grade 2)":{
+        "Sulphur":1,
+        "Heat Dispersion Plate":1
+    },
+    "Beam Laser - Efficient (Grade 3)":{
+        "Exceptional Scrambled Emission Data":1,
+        "Chromium":1,
+        "Heat Exchangers":1
+    },
+    "Beam Laser - Efficient (Grade 4)":{
+        "Irregular Emission Data":1,
+        "Selenium":1,
+        "Heat Vanes":1
+    },
+    "Beam Laser - Efficient (Grade 5)":{
+        "Unexpected Emission Data":1,
+        "Cadmium":1,
+        "Proto Heat Radiators":1
+    },
+    "Beam Laser - Overcharged (Grade 1)":{
+        "Nickel":1
+    },
+    "Beam Laser - Overcharged (Grade 2)":{
+        "Nickel":1,
+        "Conductive Components":1
+    },
+    "Beam Laser - Overcharged (Grade 3)":{
+        "Nickel":1,
+        "Conductive Components":1,
+        "Electrochemical Arrays":1
+    },
+    "Beam Laser - Overcharged (Grade 4)":{
+        "Zinc":1,
+        "Conductive Ceramics":1,
+        "Polymer Capacitors":1
+    },
+    "Beam Laser - Overcharged (Grade 5)":{
+        "Zirconium":1,
+        "Conductive Polymers":1,
+        "Modified Embedded Firmware":1
+    },
+    "Pulse Laser - Short range (Grade 1)":{
+        "Nickel":1
+    },
+    "Pulse Laser - Short range (Grade 2)":{
+        "Nickel":1,
+        "Modified Consumer Firmware":1
+    },
+    "Pulse Laser - Short range (Grade 3)":{
+        "Nickel":1,
+        "Modified Consumer Firmware":1,
+        "Electrochemical Arrays":1
+    },
+    "Pulse Laser - Short range (Grade 4)":{
+        "Modified Consumer Firmware":1,
+        "Electrochemical Arrays":1,
+        "Conductive Polymers":1
+    },
+    "Pulse Laser - Short range (Grade 5)":{
+        "Cracked Industrial Firmware":1,
+        "Configurable Components":1,
+        "Biotech Conductors":1
+    },
+    "Shield Cell Bank - Specialised (Grade 1)":{
+        "Specialised Legacy Firmware":1
+    },
+    "Shield Cell Bank - Specialised (Grade 2)":{
+        "Specialised Legacy Firmware":1,
+        "Conductive Components":1
+    },
+    "Shield Cell Bank - Specialised (Grade 3)":{
+        "Exceptional Scrambled Emission Data":1,
+        "Conductive Components":1,
+        "Cracked Industrial Firmware":1
+    },
+    "Shield Cell Bank - Specialised (Grade 4)":{
+        "Conductive Components":1,
+        "Cracked Industrial Firmware":1,
+        "Yttrium":1
+    },
+    "Shield Generator - Kinetic resistant (Grade 1)":{
+        "Distorted Shield Cycle Recordings":1
+    },
+    "Shield Generator - Kinetic resistant (Grade 2)":{
+        "Distorted Shield Cycle Recordings":1,
+        "Modified Consumer Firmware":1
+    },
+    "Shield Generator - Kinetic resistant (Grade 3)":{
+        "Distorted Shield Cycle Recordings":1,
+        "Modified Consumer Firmware":1,
+        "Selenium":1
+    },
+    "Shield Generator - Kinetic resistant (Grade 4)":{
+        "Inconsistent Shield Soak Analysis":1,
+        "Focus Crystals":1,
+        "Mercury":1
+    },
+    "Shield Generator - Kinetic resistant (Grade 5)":{
+        "Untypical Shield Scans":1,
+        "Refined Focus Crystals":1,
+        "Ruthenium":1
+    },
+    "Frame Shift Drive - Increased range (Grade 1)":{
+        "Atypical Disrupted Wake Echoes":1
+    },
+    "Frame Shift Drive - Increased range (Grade 2)":{
+        "Atypical Disrupted Wake Echoes":1,
+        "Chemical Processors":1
+    },
+    "Frame Shift Drive - Increased range (Grade 3)":{
+        "Phosphorus":1,
+        "Chemical Processors":1,
+        "Strange Wake Solutions":1
+    },
+    "Frame Shift Drive - Increased range (Grade 4)":{
+        "Manganese":1,
+        "Chemical Distillery":1,
+        "Eccentric Hyperspace Trajectories":1
+    },
+    "Frame Shift Drive - Increased range (Grade 5)":{
+        "Arsenic":1,
+        "Chemical Manipulators":1,
+        "Datamined Wake Exceptions":1
+    },
+    "Shield Generator - Enhanced low power (Grade 1)":{
+        "Distorted Shield Cycle Recordings":1
+    },
+    "Shield Generator - Enhanced low power (Grade 2)":{
+        "Distorted Shield Cycle Recordings":1,
+        "Germanium":1
+    },
+    "Shield Generator - Enhanced low power (Grade 3)":{
+        "Distorted Shield Cycle Recordings":1,
+        "Germanium":1,
+        "Precipitated Alloys":1
+    },
+    "Shield Generator - Enhanced low power (Grade 4)":{
+        "Inconsistent Shield Soak Analysis":1,
+        "Niobium":1,
+        "Thermic Alloys":1
+    },
+    "Shield Generator - Enhanced low power (Grade 5)":{
+        "Untypical Shield Scans":1,
+        "Tin":1,
+        "Military Grade Alloys":1
+    },
+    "Shield Generator - Reinforced (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Shield Generator - Reinforced (Grade 2)":{
+        "Phosphorus":1,
+        "Conductive Components":1
+    },
+    "Shield Generator - Reinforced (Grade 3)":{
+        "Phosphorus":1,
+        "Conductive Components":1,
+        "Mechanical Components":1
+    },
+    "Shield Generator - Reinforced (Grade 4)":{
+        "Manganese":1,
+        "Conductive Ceramics":1,
+        "Configurable Components":1
+    },
+    "Shield Generator - Reinforced (Grade 5)":{
+        "Arsenic":1,
+        "Conductive Polymers":1,
+        "Improvised Components":1
+    },
+    "Shield Generator - Thermal resistant (Grade 1)":{
+        "Distorted Shield Cycle Recordings":1
+    },
+    "Shield Generator - Thermal resistant (Grade 2)":{
+        "Distorted Shield Cycle Recordings":1,
+        "Germanium":1
+    },
+    "Shield Generator - Thermal resistant (Grade 3)":{
+        "Distorted Shield Cycle Recordings":1,
+        "Germanium":1,
+        "Selenium":1
+    },
+    "Shield Generator - Thermal resistant (Grade 4)":{
+        "Inconsistent Shield Soak Analysis":1,
+        "Focus Crystals":1,
+        "Mercury":1
+    },
+    "Shield Generator - Thermal resistant (Grade 5)":{
+        "Untypical Shield Scans":1,
+        "Refined Focus Crystals":1,
+        "Ruthenium":1
+    },
+    "Hull Reinforcement Package - Lightweight (Grade 1)":{
+        "Iron":1
+    },
+    "Hull Reinforcement Package - Lightweight (Grade 2)":{
+        "Iron":1,
+        "Conductive Components":1
+    },
+    "Hull Reinforcement Package - Lightweight (Grade 3)":{
+        "Iron":1,
+        "Conductive Components":1,
+        "High Density Composites":1
+    },
+    "Hull Reinforcement Package - Lightweight (Grade 4)":{
+        "Germanium":1,
+        "Conductive Ceramics":1,
+        "Proprietary Composites":1
+    },
+    "Hull Reinforcement Package - Lightweight (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Tin":1,
+        "Military Grade Alloys":1
+    },
+    "Hull Reinforcement Package - Blast resistant (Grade 1)":{
+        "Nickel":1
+    },
+    "Hull Reinforcement Package - Blast resistant (Grade 2)":{
+        "Carbon":1,
+        "Zinc":1
+    },
+    "Hull Reinforcement Package - Blast resistant (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Vanadium":1,
+        "Zirconium":1
+    },
+    "Hull Reinforcement Package - Blast resistant (Grade 4)":{
+        "Galvanising Alloys":1,
+        "Tungsten":1,
+        "Mercury":1
+    },
+    "Hull Reinforcement Package - Blast resistant (Grade 5)":{
+        "Phase Alloys":1,
+        "Molybdenum":1,
+        "Ruthenium":1
+    },
+    "Hull Reinforcement Package - Heavy duty (Grade 1)":{
+        "Carbon":1
+    },
+    "Hull Reinforcement Package - Heavy duty (Grade 2)":{
+        "Carbon":1,
+        "Shield Emitters":1
+    },
+    "Hull Reinforcement Package - Heavy duty (Grade 3)":{
+        "Carbon":1,
+        "Shield Emitters":1,
+        "High Density Composites":1
+    },
+    "Hull Reinforcement Package - Heavy duty (Grade 4)":{
+        "Vanadium":1,
+        "Shielding Sensors":1,
+        "Proprietary Composites":1
+    },
+    "Hull Reinforcement Package - Heavy duty (Grade 5)":{
+        "Tungsten":1,
+        "Compound Shielding":1,
+        "Core Dynamics Composites":1
+    },
+    "Hull Reinforcement Package - Kinetic resistant (Grade 1)":{
+        "Nickel":1
+    },
+    "Hull Reinforcement Package - Kinetic resistant (Grade 2)":{
+        "Nickel":1,
+        "Vanadium":1
+    },
+    "Hull Reinforcement Package - Kinetic resistant (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Vanadium":1,
+        "High Density Composites":1
+    },
+    "Hull Reinforcement Package - Kinetic resistant (Grade 4)":{
+        "Galvanising Alloys":1,
+        "Tungsten":1,
+        "Proprietary Composites":1
+    },
+    "Hull Reinforcement Package - Kinetic resistant (Grade 5)":{
+        "Phase Alloys":1,
+        "Molybdenum":1,
+        "Core Dynamics Composites":1
+    },
+    "Hull Reinforcement Package - Thermal resistant (Grade 1)":{
+        "Heat Conduction Wiring":1
+    },
+    "Hull Reinforcement Package - Thermal resistant (Grade 2)":{
+        "Nickel":1,
+        "Heat Dispersion Plate":1
+    },
+    "Hull Reinforcement Package - Thermal resistant (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Vanadium":1,
+        "Heat Exchangers":1
+    },
+    "Hull Reinforcement Package - Thermal resistant (Grade 4)":{
+        "Galvanising Alloys":1,
+        "Tungsten":1,
+        "Heat Vanes":1
+    },
+    "Hull Reinforcement Package - Thermal resistant (Grade 5)":{
+        "Phase Alloys":1,
+        "Molybdenum":1,
+        "Proto Heat Radiators":1
+    },
+    "Mine Launcher - High capacity (Grade 1)":{
+        "Mechanical Scrap":1
+    },
+    "Mine Launcher - High capacity (Grade 2)":{
+        "Mechanical Scrap":1,
+        "Vanadium":1
+    },
+    "Mine Launcher - High capacity (Grade 3)":{
+        "Mechanical Scrap":1,
+        "Vanadium":1,
+        "Niobium":1
+    },
+    "Mine Launcher - High capacity (Grade 4)":{
+        "Mechanical Equipment":1,
+        "High Density Composites":1,
+        "Tin":1
+    },
+    "Mine Launcher - High capacity (Grade 5)":{
+        "Mechanical Components":1,
+        "Proprietary Composites":1,
+        "Military Supercapacitors":1
+    },
+    "Mine Launcher - Rapid fire (Grade 1)":{
+        "Mechanical Scrap":1
+    },
+    "Mine Launcher - Rapid fire (Grade 2)":{
+        "Mechanical Scrap":1,
+        "Heat Dispersion Plate":1
+    },
+    "Mine Launcher - Rapid fire (Grade 3)":{
+        "Specialised Legacy Firmware":1,
+        "Mechanical Equipment":1,
+        "Precipitated Alloys":1
+    },
+    "Mine Launcher - Rapid fire (Grade 4)":{
+        "Modified Consumer Firmware":1,
+        "Mechanical Components":1,
+        "Thermic Alloys":1
+    },
+    "Mine Launcher - Rapid fire (Grade 5)":{
+        "Precipitated Alloys":1,
+        "Configurable Components":1,
+        "Technetium":1
+    },
+    "Frame Shift Drive - Shielded (Grade 1)":{
+        "Nickel":1
+    },
+    "Frame Shift Drive - Shielded (Grade 2)":{
+        "Carbon":1,
+        "Shield Emitters":1
+    },
+    "Frame Shift Drive - Shielded (Grade 3)":{
+        "Carbon":1,
+        "Zinc":1,
+        "Shielding Sensors":1
+    },
+    "Frame Shift Drive - Shielded (Grade 4)":{
+        "Vanadium":1,
+        "High Density Composites":1,
+        "Compound Shielding":1
+    },
+    "Frame Shift Drive - Shielded (Grade 5)":{
+        "Tungsten":1,
+        "Proprietary Composites":1,
+        "Imperial Shielding":1
+    },
+    "Mine Launcher - Sturdy (Grade 1)":{
+        "Nickel":1
+    },
+    "Mine Launcher - Sturdy (Grade 2)":{
+        "Nickel":1,
+        "Shield Emitters":1
+    },
+    "Mine Launcher - Sturdy (Grade 3)":{
+        "Nickel":1,
+        "Shield Emitters":1,
+        "Tungsten":1
+    },
+    "Mine Launcher - Sturdy (Grade 4)":{
+        "Zinc":1,
+        "Tungsten":1,
+        "Molybdenum":1
+    },
+    "Mine Launcher - Sturdy (Grade 5)":{
+        "High Density Composites":1,
+        "Molybdenum":1,
+        "Technetium":1
+    },
+    "Seeker Missile Rack - High capacity (Grade 1)":{
+        "Mechanical Scrap":1
+    },
+    "Seeker Missile Rack - High capacity (Grade 2)":{
+        "Mechanical Scrap":1,
+        "Vanadium":1
+    },
+    "Seeker Missile Rack - High capacity (Grade 3)":{
+        "Mechanical Scrap":1,
+        "Vanadium":1,
+        "Niobium":1
+    },
+    "Seeker Missile Rack - High capacity (Grade 4)":{
+        "Mechanical Equipment":1,
+        "High Density Composites":1,
+        "Tin":1
+    },
+    "Seeker Missile Rack - High capacity (Grade 5)":{
+        "Mechanical Components":1,
+        "Proprietary Composites":1,
+        "Military Supercapacitors":1
+    },
+    "Seeker Missile Rack - Rapid fire (Grade 1)":{
+        "Mechanical Scrap":1
+    },
+    "Seeker Missile Rack - Rapid fire (Grade 2)":{
+        "Mechanical Scrap":1,
+        "Heat Dispersion Plate":1
+    },
+    "Seeker Missile Rack - Rapid fire (Grade 3)":{
+        "Specialised Legacy Firmware":1,
+        "Mechanical Equipment":1,
+        "Precipitated Alloys":1
+    },
+    "Seeker Missile Rack - Rapid fire (Grade 4)":{
+        "Modified Consumer Firmware":1,
+        "Mechanical Components":1,
+        "Thermic Alloys":1
+    },
+    "Seeker Missile Rack - Rapid fire (Grade 5)":{
+        "Precipitated Alloys":1,
+        "Configurable Components":1,
+        "Technetium":1
+    },
+    "Seeker Missile Rack - Sturdy (Grade 1)":{
+        "Nickel":1
+    },
+    "Seeker Missile Rack - Sturdy (Grade 2)":{
+        "Nickel":1,
+        "Shield Emitters":1
+    },
+    "Seeker Missile Rack - Sturdy (Grade 3)":{
+        "Nickel":1,
+        "Shield Emitters":1,
+        "Tungsten":1
+    },
+    "Seeker Missile Rack - Sturdy (Grade 4)":{
+        "Zinc":1,
+        "Tungsten":1,
+        "Molybdenum":1
+    },
+    "Seeker Missile Rack - Sturdy (Grade 5)":{
+        "High Density Composites":1,
+        "Molybdenum":1,
+        "Technetium":1
+    },
+    "Armour - Lightweight (Grade 1)":{
+        "Iron":1
+    },
+    "Armour - Lightweight (Grade 2)":{
+        "Iron":1,
+        "Conductive Components":1
+    },
+    "Armour - Lightweight (Grade 3)":{
+        "Iron":1,
+        "Conductive Components":1,
+        "High Density Composites":1
+    },
+    "Armour - Lightweight (Grade 4)":{
+        "Germanium":1,
+        "Conductive Ceramics":1,
+        "Proprietary Composites":1
+    },
+    "Armour - Lightweight (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Tin":1,
+        "Military Grade Alloys":1
+    },
+    "Armour - Blast resistant (Grade 1)":{
+        "Nickel":1
+    },
+    "Armour - Blast resistant (Grade 2)":{
+        "Carbon":1,
+        "Zinc":1
+    },
+    "Armour - Blast resistant (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Vanadium":1,
+        "Zirconium":1
+    },
+    "Armour - Blast resistant (Grade 4)":{
+        "Galvanising Alloys":1,
+        "Tungsten":1,
+        "Mercury":1
+    },
+    "Armour - Blast resistant (Grade 5)":{
+        "Phase Alloys":1,
+        "Molybdenum":1,
+        "Ruthenium":1
+    },
+    "Armour - Heavy duty (Grade 1)":{
+        "Carbon":1
+    },
+    "Armour - Heavy duty (Grade 2)":{
+        "Carbon":1,
+        "Shield Emitters":1
+    },
+    "Armour - Heavy duty (Grade 3)":{
+        "Carbon":1,
+        "Shield Emitters":1,
+        "High Density Composites":1
+    },
+    "Armour - Heavy duty (Grade 4)":{
+        "Vanadium":1,
+        "Shielding Sensors":1,
+        "Proprietary Composites":1
+    },
+    "Armour - Heavy duty (Grade 5)":{
+        "Tungsten":1,
+        "Compound Shielding":1,
+        "Core Dynamics Composites":1
+    },
+    "Armour - Kinetic resistant (Grade 1)":{
+        "Nickel":1
+    },
+    "Armour - Kinetic resistant (Grade 2)":{
+        "Nickel":1,
+        "Vanadium":1
+    },
+    "Armour - Kinetic resistant (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Vanadium":1,
+        "High Density Composites":1
+    },
+    "Armour - Kinetic resistant (Grade 4)":{
+        "Galvanising Alloys":1,
+        "Tungsten":1,
+        "Proprietary Composites":1
+    },
+    "Armour - Kinetic resistant (Grade 5)":{
+        "Phase Alloys":1,
+        "Molybdenum":1,
+        "Core Dynamics Composites":1
+    },
+    "Thrusters - Dirty (Grade 1)":{
+        "Specialised Legacy Firmware":1
+    },
+    "Thrusters - Dirty (Grade 2)":{
+        "Specialised Legacy Firmware":1,
+        "Mechanical Equipment":1
+    },
+    "Thrusters - Dirty (Grade 3)":{
+        "Specialised Legacy Firmware":1,
+        "Chromium":1,
+        "Mechanical Components":1
+    },
+    "Thrusters - Dirty (Grade 4)":{
+        "Modified Consumer Firmware":1,
+        "Selenium":1,
+        "Configurable Components":1
+    },
+    "Thrusters - Dirty (Grade 5)":{
+        "Cracked Industrial Firmware":1,
+        "Cadmium":1,
+        "Pharmaceutical Isolators":1
+    },
+    "Armour - Thermal resistant (Grade 1)":{
+        "Heat Conduction Wiring":1
+    },
+    "Armour - Thermal resistant (Grade 2)":{
+        "Nickel":1,
+        "Heat Dispersion Plate":1
+    },
+    "Armour - Thermal resistant (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Vanadium":1,
+        "Heat Exchangers":1
+    },
+    "Armour - Thermal resistant (Grade 4)":{
+        "Galvanising Alloys":1,
+        "Tungsten":1,
+        "Heat Vanes":1
+    },
+    "Armour - Thermal resistant (Grade 5)":{
+        "Phase Alloys":1,
+        "Molybdenum":1,
+        "Proto Heat Radiators":1
+    },
+    "Torpedo Pylon - Sturdy (Grade 1)":{
+        "Nickel":1
+    },
+    "Torpedo Pylon - Sturdy (Grade 2)":{
+        "Nickel":1,
+        "Shield Emitters":1
+    },
+    "Torpedo Pylon - Sturdy (Grade 3)":{
+        "Nickel":1,
+        "Shield Emitters":1,
+        "Tungsten":1
+    },
+    "Torpedo Pylon - Sturdy (Grade 4)":{
+        "Zinc":1,
+        "Tungsten":1,
+        "Molybdenum":1
+    },
+    "Torpedo Pylon - Sturdy (Grade 5)":{
+        "High Density Composites":1,
+        "Molybdenum":1,
+        "Technetium":1
+    },
+    "Cannon - Efficient (Grade 1)":{
+        "Sulphur":1
+    },
+    "Cannon - Efficient (Grade 2)":{
+        "Sulphur":1,
+        "Heat Dispersion Plate":1
+    },
+    "Cannon - Efficient (Grade 3)":{
+        "Exceptional Scrambled Emission Data":1,
+        "Chromium":1,
+        "Heat Exchangers":1
+    },
+    "Cannon - Efficient (Grade 4)":{
+        "Irregular Emission Data":1,
+        "Selenium":1,
+        "Heat Vanes":1
+    },
+    "Cannon - Efficient (Grade 5)":{
+        "Unexpected Emission Data":1,
+        "Cadmium":1,
+        "Proto Heat Radiators":1
+    },
+    "Cannon - High capacity (Grade 1)":{
+        "Mechanical Scrap":1
+    },
+    "Cannon - High capacity (Grade 2)":{
+        "Mechanical Scrap":1,
+        "Vanadium":1
+    },
+    "Cannon - High capacity (Grade 3)":{
+        "Mechanical Scrap":1,
+        "Vanadium":1,
+        "Niobium":1
+    },
+    "Cannon - High capacity (Grade 4)":{
+        "Mechanical Equipment":1,
+        "High Density Composites":1,
+        "Tin":1
+    },
+    "Cannon - High capacity (Grade 5)":{
+        "Mechanical Components":1,
+        "Proprietary Composites":1,
+        "Military Supercapacitors":1
+    },
+    "Cannon - Long range (Grade 1)":{
+        "Sulphur":1
+    },
+    "Cannon - Long range (Grade 2)":{
+        "Sulphur":1,
+        "Modified Consumer Firmware":1
+    },
+    "Cannon - Long range (Grade 3)":{
+        "Sulphur":1,
+        "Modified Consumer Firmware":1,
+        "Focus Crystals":1
+    },
+    "Cannon - Long range (Grade 4)":{
+        "Modified Consumer Firmware":1,
+        "Focus Crystals":1,
+        "Conductive Polymers":1
+    },
+    "Cannon - Long range (Grade 5)":{
+        "Cracked Industrial Firmware":1,
+        "Thermic Alloys":1,
+        "Biotech Conductors":1
+    },
+    "Cannon - Short range (Grade 1)":{
+        "Nickel":1
+    },
+    "Cannon - Short range (Grade 2)":{
+        "Nickel":1,
+        "Modified Consumer Firmware":1
+    },
+    "Cannon - Short range (Grade 3)":{
+        "Nickel":1,
+        "Modified Consumer Firmware":1,
+        "Electrochemical Arrays":1
+    },
+    "Cannon - Short range (Grade 4)":{
+        "Modified Consumer Firmware":1,
+        "Electrochemical Arrays":1,
+        "Conductive Polymers":1
+    },
+    "Cannon - Short range (Grade 5)":{
+        "Cracked Industrial Firmware":1,
+        "Configurable Components":1,
+        "Biotech Conductors":1
+    },
+    "Cannon - Overcharged (Grade 1)":{
+        "Nickel":1
+    },
+    "Cannon - Overcharged (Grade 2)":{
+        "Nickel":1,
+        "Conductive Components":1
+    },
+    "Cannon - Overcharged (Grade 3)":{
+        "Nickel":1,
+        "Conductive Components":1,
+        "Electrochemical Arrays":1
+    },
+    "Cannon - Overcharged (Grade 4)":{
+        "Zinc":1,
+        "Conductive Ceramics":1,
+        "Polymer Capacitors":1
+    },
+    "Cannon - Overcharged (Grade 5)":{
+        "Zirconium":1,
+        "Conductive Polymers":1,
+        "Modified Embedded Firmware":1
+    },
+    "Fragment Cannon - Double shot (Grade 1)":{
+        "Carbon":1
+    },
+    "Fragment Cannon - Double shot (Grade 2)":{
+        "Carbon":1,
+        "Mechanical Equipment":1
+    },
+    "Fragment Cannon - Double shot (Grade 3)":{
+        "Carbon":1,
+        "Mechanical Equipment":1,
+        "Cracked Industrial Firmware":1
+    },
+    "Fragment Cannon - Double shot (Grade 4)":{
+        "Vanadium":1,
+        "Mechanical Components":1,
+        "Security Firmware Patch":1
+    },
+    "Fragment Cannon - Double shot (Grade 5)":{
+        "High Density Composites":1,
+        "Configurable Components":1,
+        "Modified Embedded Firmware":1
+    },
+    "Fragment Cannon - Efficient (Grade 1)":{
+        "Sulphur":1
+    },
+    "Fragment Cannon - Efficient (Grade 2)":{
+        "Sulphur":1,
+        "Heat Dispersion Plate":1
+    },
+    "Fragment Cannon - Efficient (Grade 3)":{
+        "Exceptional Scrambled Emission Data":1,
+        "Chromium":1,
+        "Heat Exchangers":1
+    },
+    "Fragment Cannon - Efficient (Grade 4)":{
+        "Irregular Emission Data":1,
+        "Selenium":1,
+        "Heat Vanes":1
+    },
+    "Fragment Cannon - Efficient (Grade 5)":{
+        "Unexpected Emission Data":1,
+        "Cadmium":1,
+        "Proto Heat Radiators":1
+    },
+    "Thrusters - Reinforced (Grade 1)":{
+        "Carbon":1
+    },
+    "Thrusters - Reinforced (Grade 2)":{
+        "Heat Conduction Wiring":1,
+        "Vanadium":1
+    },
+    "Thrusters - Reinforced (Grade 3)":{
+        "Heat Conduction Wiring":1,
+        "Vanadium":1,
+        "Shielding Sensors":1
+    },
+    "Thrusters - Reinforced (Grade 4)":{
+        "Heat Dispersion Plate":1,
+        "High Density Composites":1,
+        "Compound Shielding":1
+    },
+    "Thrusters - Reinforced (Grade 5)":{
+        "Heat Exchangers":1,
+        "Proprietary Composites":1,
+        "Imperial Shielding":1
+    },
+    "Fragment Cannon - High capacity (Grade 1)":{
+        "Mechanical Scrap":1
+    },
+    "Fragment Cannon - High capacity (Grade 2)":{
+        "Mechanical Scrap":1,
+        "Vanadium":1
+    },
+    "Fragment Cannon - High capacity (Grade 3)":{
+        "Mechanical Scrap":1,
+        "Vanadium":1,
+        "Niobium":1
+    },
+    "Fragment Cannon - High capacity (Grade 4)":{
+        "Mechanical Equipment":1,
+        "High Density Composites":1,
+        "Tin":1
+    },
+    "Fragment Cannon - High capacity (Grade 5)":{
+        "Mechanical Components":1,
+        "Proprietary Composites":1,
+        "Military Supercapacitors":1
+    },
+    "Fragment Cannon - Overcharged (Grade 1)":{
+        "Nickel":1
+    },
+    "Fragment Cannon - Overcharged (Grade 2)":{
+        "Nickel":1,
+        "Conductive Components":1
+    },
+    "Fragment Cannon - Overcharged (Grade 3)":{
+        "Nickel":1,
+        "Conductive Components":1,
+        "Electrochemical Arrays":1
+    },
+    "Fragment Cannon - Overcharged (Grade 4)":{
+        "Zinc":1,
+        "Conductive Ceramics":1,
+        "Polymer Capacitors":1
+    },
+    "Fragment Cannon - Overcharged (Grade 5)":{
+        "Zirconium":1,
+        "Conductive Polymers":1,
+        "Modified Embedded Firmware":1
+    },
+    "Fragment Cannon - Sturdy (Grade 1)":{
+        "Nickel":1
+    },
+    "Fragment Cannon - Sturdy (Grade 2)":{
+        "Nickel":1,
+        "Shield Emitters":1
+    },
+    "Fragment Cannon - Sturdy (Grade 3)":{
+        "Nickel":1,
+        "Shield Emitters":1,
+        "Tungsten":1
+    },
+    "Fragment Cannon - Sturdy (Grade 4)":{
+        "Zinc":1,
+        "Tungsten":1,
+        "Molybdenum":1
+    },
+    "Fragment Cannon - Sturdy (Grade 5)":{
+        "High Density Composites":1,
+        "Molybdenum":1,
+        "Technetium":1
+    },
+    "Multi-cannon - Efficient (Grade 1)":{
+        "Sulphur":1
+    },
+    "Multi-cannon - Efficient (Grade 2)":{
+        "Sulphur":1,
+        "Heat Dispersion Plate":1
+    },
+    "Multi-cannon - Efficient (Grade 3)":{
+        "Exceptional Scrambled Emission Data":1,
+        "Chromium":1,
+        "Heat Exchangers":1
+    },
+    "Multi-cannon - Efficient (Grade 4)":{
+        "Irregular Emission Data":1,
+        "Selenium":1,
+        "Heat Vanes":1
+    },
+    "Multi-cannon - Efficient (Grade 5)":{
+        "Unexpected Emission Data":1,
+        "Cadmium":1,
+        "Proto Heat Radiators":1
+    },
+    "Multi-cannon - High capacity (Grade 1)":{
+        "Mechanical Scrap":1
+    },
+    "Multi-cannon - High capacity (Grade 2)":{
+        "Mechanical Scrap":1,
+        "Vanadium":1
+    },
+    "Multi-cannon - High capacity (Grade 3)":{
+        "Mechanical Scrap":1,
+        "Vanadium":1,
+        "Niobium":1
+    },
+    "Multi-cannon - High capacity (Grade 4)":{
+        "Mechanical Equipment":1,
+        "High Density Composites":1,
+        "Tin":1
+    },
+    "Multi-cannon - High capacity (Grade 5)":{
+        "Mechanical Components":1,
+        "Proprietary Composites":1,
+        "Military Supercapacitors":1
+    },
+    "Multi-cannon - Overcharged (Grade 1)":{
+        "Nickel":1
+    },
+    "Multi-cannon - Overcharged (Grade 2)":{
+        "Nickel":1,
+        "Conductive Components":1
+    },
+    "Multi-cannon - Overcharged (Grade 3)":{
+        "Nickel":1,
+        "Conductive Components":1,
+        "Electrochemical Arrays":1
+    },
+    "Multi-cannon - Overcharged (Grade 4)":{
+        "Zinc":1,
+        "Conductive Ceramics":1,
+        "Polymer Capacitors":1
+    },
+    "Multi-cannon - Overcharged (Grade 5)":{
+        "Zirconium":1,
+        "Conductive Polymers":1,
+        "Modified Embedded Firmware":1
+    },
+    "Multi-cannon - Short range (Grade 1)":{
+        "Nickel":1
+    },
+    "Multi-cannon - Short range (Grade 2)":{
+        "Nickel":1,
+        "Modified Consumer Firmware":1
+    },
+    "Multi-cannon - Short range (Grade 3)":{
+        "Nickel":1,
+        "Modified Consumer Firmware":1,
+        "Electrochemical Arrays":1
+    },
+    "Multi-cannon - Short range (Grade 4)":{
+        "Modified Consumer Firmware":1,
+        "Electrochemical Arrays":1,
+        "Conductive Polymers":1
+    },
+    "Multi-cannon - Short range (Grade 5)":{
+        "Cracked Industrial Firmware":1,
+        "Configurable Components":1,
+        "Biotech Conductors":1
+    },
+    "Multi-cannon - Sturdy (Grade 1)":{
+        "Nickel":1
+    },
+    "Multi-cannon - Sturdy (Grade 2)":{
+        "Nickel":1,
+        "Shield Emitters":1
+    },
+    "Multi-cannon - Sturdy (Grade 3)":{
+        "Nickel":1,
+        "Shield Emitters":1,
+        "Tungsten":1
+    },
+    "Multi-cannon - Sturdy (Grade 4)":{
+        "Zinc":1,
+        "Tungsten":1,
+        "Molybdenum":1
+    },
+    "Multi-cannon - Sturdy (Grade 5)":{
+        "High Density Composites":1,
+        "Molybdenum":1,
+        "Technetium":1
+    },
+    "Thrusters - Clean (Grade 1)":{
+        "Sulphur":1
+    },
+    "Thrusters - Clean (Grade 2)":{
+        "Specialised Legacy Firmware":1,
+        "Conductive Components":1
+    },
+    "Thrusters - Clean (Grade 3)":{
+        "Specialised Legacy Firmware":1,
+        "Conductive Components":1,
+        "Unexpected Emission Data":1
+    },
+    "Thrusters - Clean (Grade 4)":{
+        "Modified Consumer Firmware":1,
+        "Conductive Ceramics":1,
+        "Decoded Emission Data":1
+    },
+    "Thrusters - Clean (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Tin":1,
+        "Abnormal Compact Emissions Data":1
+    },
+    "Rail Gun - High capacity (Grade 1)":{
+        "Mechanical Scrap":1
+    },
+    "Rail Gun - High capacity (Grade 2)":{
+        "Mechanical Scrap":1,
+        "Vanadium":1
+    },
+    "Rail Gun - High capacity (Grade 3)":{
+        "Mechanical Scrap":1,
+        "Vanadium":1,
+        "Niobium":1
+    },
+    "Rail Gun - High capacity (Grade 4)":{
+        "Mechanical Equipment":1,
+        "High Density Composites":1,
+        "Tin":1
+    },
+    "Rail Gun - High capacity (Grade 5)":{
+        "Mechanical Components":1,
+        "Proprietary Composites":1,
+        "Military Supercapacitors":1
+    },
+    "Rail Gun - Long range (Grade 1)":{
+        "Sulphur":1
+    },
+    "Rail Gun - Long range (Grade 2)":{
+        "Sulphur":1,
+        "Modified Consumer Firmware":1
+    },
+    "Rail Gun - Long range (Grade 3)":{
+        "Sulphur":1,
+        "Modified Consumer Firmware":1,
+        "Focus Crystals":1
+    },
+    "Rail Gun - Long range (Grade 4)":{
+        "Modified Consumer Firmware":1,
+        "Focus Crystals":1,
+        "Conductive Polymers":1
+    },
+    "Rail Gun - Long range (Grade 5)":{
+        "Cracked Industrial Firmware":1,
+        "Thermic Alloys":1,
+        "Biotech Conductors":1
+    },
+    "Rail Gun - Short range (Grade 1)":{
+        "Nickel":1
+    },
+    "Rail Gun - Short range (Grade 2)":{
+        "Nickel":1,
+        "Modified Consumer Firmware":1
+    },
+    "Rail Gun - Short range (Grade 3)":{
+        "Nickel":1,
+        "Modified Consumer Firmware":1,
+        "Electrochemical Arrays":1
+    },
+    "Rail Gun - Short range (Grade 4)":{
+        "Modified Consumer Firmware":1,
+        "Electrochemical Arrays":1,
+        "Conductive Polymers":1
+    },
+    "Rail Gun - Short range (Grade 5)":{
+        "Cracked Industrial Firmware":1,
+        "Configurable Components":1,
+        "Biotech Conductors":1
+    },
+    "Rail Gun - Sturdy (Grade 1)":{
+        "Nickel":1
+    },
+    "Rail Gun - Sturdy (Grade 2)":{
+        "Nickel":1,
+        "Shield Emitters":1
+    },
+    "Rail Gun - Sturdy (Grade 3)":{
+        "Nickel":1,
+        "Shield Emitters":1,
+        "Tungsten":1
+    },
+    "Rail Gun - Sturdy (Grade 4)":{
+        "Zinc":1,
+        "Tungsten":1,
+        "Molybdenum":1
+    },
+    "Rail Gun - Sturdy (Grade 5)":{
+        "High Density Composites":1,
+        "Molybdenum":1,
+        "Technetium":1
+    },
+    "Power Distributor - High charge capacity (Grade 1)":{
+        "Sulphur":1
+    },
+    "Power Distributor - High charge capacity (Grade 2)":{
+        "Specialised Legacy Firmware":1,
+        "Chromium":1
+    },
+    "Power Distributor - High charge capacity (Grade 3)":{
+        "Specialised Legacy Firmware":1,
+        "Chromium":1,
+        "High Density Composites":1
+    },
+    "Power Distributor - High charge capacity (Grade 4)":{
+        "Modified Consumer Firmware":1,
+        "Selenium":1,
+        "Proprietary Composites":1
+    },
+    "Power Distributor - High charge capacity (Grade 5)":{
+        "Cracked Industrial Firmware":1,
+        "Proprietary Composites":1,
+        "Military Supercapacitors":1
+    },
+    "Power Distributor - Charge enhanced (Grade 1)":{
+        "Specialised Legacy Firmware":1
+    },
+    "Power Distributor - Charge enhanced (Grade 2)":{
+        "Specialised Legacy Firmware":1,
+        "Chemical Processors":1
+    },
+    "Power Distributor - Charge enhanced (Grade 3)":{
+        "Grid Resistors":1,
+        "Modified Consumer Firmware":1,
+        "Chemical Distillery":1
+    },
+    "Power Distributor - Charge enhanced (Grade 4)":{
+        "Hybrid Capacitors":1,
+        "Cracked Industrial Firmware":1,
+        "Chemical Manipulators":1
+    },
+    "Power Distributor - Charge enhanced (Grade 5)":{
+        "Cracked Industrial Firmware":1,
+        "Chemical Manipulators":1,
+        "Exquisite Focus Crystals":1
+    },
+    "Power Distributor - Engine focused (Grade 1)":{
+        "Sulphur":1
+    },
+    "Power Distributor - Engine focused (Grade 2)":{
+        "Sulphur":1,
+        "Conductive Components":1
+    },
+    "Power Distributor - Engine focused (Grade 3)":{
+        "Anomalous Bulk Scan Data":1,
+        "Chromium":1,
+        "Electrochemical Arrays":1
+    },
+    "Power Distributor - Engine focused (Grade 4)":{
+        "Unidentified Scan Archives":1,
+        "Selenium":1,
+        "Polymer Capacitors":1
+    },
+    "Power Distributor - Engine focused (Grade 5)":{
+        "Classified Scan Databanks":1,
+        "Cadmium":1,
+        "Military Supercapacitors":1
+    },
+    "Power Distributor - System focused (Grade 1)":{
+        "Sulphur":1
+    },
+    "Power Distributor - System focused (Grade 2)":{
+        "Sulphur":1,
+        "Conductive Components":1
+    },
+    "Power Distributor - System focused (Grade 3)":{
+        "Anomalous Bulk Scan Data":1,
+        "Chromium":1,
+        "Electrochemical Arrays":1
+    },
+    "Power Distributor - System focused (Grade 4)":{
+        "Unidentified Scan Archives":1,
+        "Selenium":1,
+        "Polymer Capacitors":1
+    },
+    "Power Distributor - System focused (Grade 5)":{
+        "Classified Scan Databanks":1,
+        "Cadmium":1,
+        "Military Supercapacitors":1
+    },
+    "Shield Booster - Blast resistant (Grade 1)":{
+        "Iron":1
+    },
+    "Shield Booster - Blast resistant (Grade 2)":{
+        "Iron":1,
+        "Conductive Components":1
+    },
+    "Shield Booster - Blast resistant (Grade 3)":{
+        "Iron":1,
+        "Conductive Components":1,
+        "Focus Crystals":1
+    },
+    "Shield Booster - Blast resistant (Grade 4)":{
+        "Germanium":1,
+        "Untypical Shield Scans":1,
+        "Refined Focus Crystals":1
+    },
+    "Shield Booster - Blast resistant (Grade 5)":{
+        "Niobium":1,
+        "Aberrant Shield Pattern Analysis":1,
+        "Exquisite Focus Crystals":1
+    },
+    "Power Distributor - Weapon focused (Grade 1)":{
+        "Sulphur":1
+    },
+    "Power Distributor - Weapon focused (Grade 2)":{
+        "Sulphur":1,
+        "Conductive Components":1
+    },
+    "Power Distributor - Weapon focused (Grade 3)":{
+        "Anomalous Bulk Scan Data":1,
+        "Hybrid Capacitors":1,
+        "Selenium":1
+    },
+    "Power Distributor - Weapon focused (Grade 4)":{
+        "Unidentified Scan Archives":1,
+        "Electrochemical Arrays":1,
+        "Cadmium":1
+    },
+    "Power Distributor - Weapon focused (Grade 5)":{
+        "Classified Scan Databanks":1,
+        "Polymer Capacitors":1,
+        "Tellurium":1
+    },
+    "Power Distributor - Shielded (Grade 1)":{
+        "Worn Shield Emitters":1
+    },
+    "Power Distributor - Shielded (Grade 2)":{
+        "Carbon":1,
+        "Shield Emitters":1
+    },
+    "Power Distributor - Shielded (Grade 3)":{
+        "Carbon":1,
+        "Shield Emitters":1,
+        "High Density Composites":1
+    },
+    "Power Distributor - Shielded (Grade 4)":{
+        "Vanadium":1,
+        "Shielding Sensors":1,
+        "Proprietary Composites":1
+    },
+    "Power Distributor - Shielded (Grade 5)":{
+        "Tungsten":1,
+        "Compound Shielding":1,
+        "Core Dynamics Composites":1
+    },
+    "Pulse Laser - Efficient (Grade 1)":{
+        "Sulphur":1
+    },
+    "Pulse Laser - Efficient (Grade 2)":{
+        "Sulphur":1,
+        "Heat Dispersion Plate":1
+    },
+    "Pulse Laser - Efficient (Grade 3)":{
+        "Exceptional Scrambled Emission Data":1,
+        "Chromium":1,
+        "Heat Exchangers":1
+    },
+    "Pulse Laser - Efficient (Grade 4)":{
+        "Irregular Emission Data":1,
+        "Selenium":1,
+        "Heat Vanes":1
+    },
+    "Pulse Laser - Efficient (Grade 5)":{
+        "Unexpected Emission Data":1,
+        "Cadmium":1,
+        "Proto Heat Radiators":1
+    },
+    "Pulse Laser - Focused (Grade 1)":{
+        "Iron":1
+    },
+    "Pulse Laser - Focused (Grade 2)":{
+        "Iron":1,
+        "Conductive Components":1
+    },
+    "Pulse Laser - Focused (Grade 3)":{
+        "Iron":1,
+        "Chromium":1,
+        "Conductive Ceramics":1
+    },
+    "Pulse Laser - Focused (Grade 4)":{
+        "Germanium":1,
+        "Focus Crystals":1,
+        "Polymer Capacitors":1
+    },
+    "Pulse Laser - Focused (Grade 5)":{
+        "Niobium":1,
+        "Refined Focus Crystals":1,
+        "Military Supercapacitors":1
+    },
+    "Pulse Laser - Lightweight (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Pulse Laser - Lightweight (Grade 2)":{
+        "Salvaged Alloys":1,
+        "Manganese":1
+    },
+    "Pulse Laser - Lightweight (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Manganese":1,
+        "Conductive Ceramics":1
+    },
+    "Pulse Laser - Lightweight (Grade 4)":{
+        "Conductive Components":1,
+        "Phase Alloys":1,
+        "Proto Light Alloys":1
+    },
+    "Pulse Laser - Lightweight (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Proto Light Alloys":1,
+        "Proto Radiolic Alloys":1
+    },
+    "Pulse Laser - Sturdy (Grade 1)":{
+        "Nickel":1
+    },
+    "Pulse Laser - Sturdy (Grade 2)":{
+        "Nickel":1,
+        "Shield Emitters":1
+    },
+    "Pulse Laser - Sturdy (Grade 3)":{
+        "Nickel":1,
+        "Shield Emitters":1,
+        "Tungsten":1
+    },
+    "Pulse Laser - Sturdy (Grade 4)":{
+        "Zinc":1,
+        "Tungsten":1,
+        "Molybdenum":1
+    },
+    "Pulse Laser - Sturdy (Grade 5)":{
+        "High Density Composites":1,
+        "Molybdenum":1,
+        "Technetium":1
+    },
+    "Pulse Laser - Overcharged (Grade 1)":{
+        "Nickel":1
+    },
+    "Pulse Laser - Overcharged (Grade 2)":{
+        "Nickel":1,
+        "Conductive Components":1
+    },
+    "Pulse Laser - Overcharged (Grade 3)":{
+        "Nickel":1,
+        "Conductive Components":1,
+        "Electrochemical Arrays":1
+    },
+    "Pulse Laser - Overcharged (Grade 4)":{
+        "Zinc":1,
+        "Conductive Ceramics":1,
+        "Polymer Capacitors":1
+    },
+    "Pulse Laser - Overcharged (Grade 5)":{
+        "Zirconium":1,
+        "Conductive Polymers":1,
+        "Modified Embedded Firmware":1
+    },
+    "Burst Laser - Efficient (Grade 1)":{
+        "Sulphur":1
+    },
+    "Burst Laser - Efficient (Grade 2)":{
+        "Sulphur":1,
+        "Heat Dispersion Plate":1
+    },
+    "Burst Laser - Efficient (Grade 3)":{
+        "Exceptional Scrambled Emission Data":1,
+        "Chromium":1,
+        "Heat Exchangers":1
+    },
+    "Burst Laser - Efficient (Grade 4)":{
+        "Irregular Emission Data":1,
+        "Selenium":1,
+        "Heat Vanes":1
+    },
+    "Burst Laser - Efficient (Grade 5)":{
+        "Unexpected Emission Data":1,
+        "Cadmium":1,
+        "Proto Heat Radiators":1
+    },
+    "Burst Laser - Lightweight (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Burst Laser - Lightweight (Grade 2)":{
+        "Salvaged Alloys":1,
+        "Manganese":1
+    },
+    "Burst Laser - Lightweight (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Manganese":1,
+        "Conductive Ceramics":1
+    },
+    "Burst Laser - Lightweight (Grade 4)":{
+        "Conductive Components":1,
+        "Phase Alloys":1,
+        "Proto Light Alloys":1
+    },
+    "Burst Laser - Lightweight (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Proto Light Alloys":1,
+        "Proto Radiolic Alloys":1
+    },
+    "Burst Laser - Sturdy (Grade 1)":{
+        "Nickel":1
+    },
+    "Burst Laser - Sturdy (Grade 2)":{
+        "Nickel":1,
+        "Shield Emitters":1
+    },
+    "Burst Laser - Sturdy (Grade 3)":{
+        "Nickel":1,
+        "Shield Emitters":1,
+        "Tungsten":1
+    },
+    "Burst Laser - Sturdy (Grade 4)":{
+        "Zinc":1,
+        "Tungsten":1,
+        "Molybdenum":1
+    },
+    "Burst Laser - Sturdy (Grade 5)":{
+        "High Density Composites":1,
+        "Molybdenum":1,
+        "Technetium":1
+    },
+    "Shield Booster - Heavy duty (Grade 1)":{
+        "Grid Resistors":1
+    },
+    "Shield Booster - Heavy duty (Grade 2)":{
+        "Distorted Shield Cycle Recordings":1,
+        "Hybrid Capacitors":1
+    },
+    "Shield Booster - Heavy duty (Grade 3)":{
+        "Distorted Shield Cycle Recordings":1,
+        "Hybrid Capacitors":1,
+        "Niobium":1
+    },
+    "Shield Booster - Heavy duty (Grade 4)":{
+        "Inconsistent Shield Soak Analysis":1,
+        "Electrochemical Arrays":1,
+        "Tin":1
+    },
+    "Shield Booster - Heavy duty (Grade 5)":{
+        "Untypical Shield Scans":1,
+        "Polymer Capacitors":1,
+        "Antimony":1
+    },
+    "Burst Laser - Short range (Grade 1)":{
+        "Nickel":1
+    },
+    "Burst Laser - Short range (Grade 2)":{
+        "Nickel":1,
+        "Modified Consumer Firmware":1
+    },
+    "Burst Laser - Short range (Grade 3)":{
+        "Nickel":1,
+        "Modified Consumer Firmware":1,
+        "Electrochemical Arrays":1
+    },
+    "Burst Laser - Short range (Grade 4)":{
+        "Modified Consumer Firmware":1,
+        "Electrochemical Arrays":1,
+        "Conductive Polymers":1
+    },
+    "Burst Laser - Short range (Grade 5)":{
+        "Cracked Industrial Firmware":1,
+        "Configurable Components":1,
+        "Biotech Conductors":1
+    },
+    "Burst Laser - Long range (Grade 1)":{
+        "Sulphur":1
+    },
+    "Burst Laser - Long range (Grade 2)":{
+        "Sulphur":1,
+        "Modified Consumer Firmware":1
+    },
+    "Burst Laser - Long range (Grade 3)":{
+        "Sulphur":1,
+        "Modified Consumer Firmware":1,
+        "Focus Crystals":1
+    },
+    "Burst Laser - Long range (Grade 4)":{
+        "Modified Consumer Firmware":1,
+        "Focus Crystals":1,
+        "Conductive Polymers":1
+    },
+    "Burst Laser - Long range (Grade 5)":{
+        "Cracked Industrial Firmware":1,
+        "Thermic Alloys":1,
+        "Biotech Conductors":1
+    },
+    "Burst Laser - Overcharged (Grade 1)":{
+        "Nickel":1
+    },
+    "Burst Laser - Overcharged (Grade 2)":{
+        "Nickel":1,
+        "Conductive Components":1
+    },
+    "Burst Laser - Overcharged (Grade 3)":{
+        "Nickel":1,
+        "Conductive Components":1,
+        "Electrochemical Arrays":1
+    },
+    "Burst Laser - Overcharged (Grade 4)":{
+        "Zinc":1,
+        "Conductive Ceramics":1,
+        "Polymer Capacitors":1
+    },
+    "Burst Laser - Overcharged (Grade 5)":{
+        "Zirconium":1,
+        "Conductive Polymers":1,
+        "Modified Embedded Firmware":1
+    },
+    "Beam Laser - Long range (Grade 1)":{
+        "Sulphur":1
+    },
+    "Beam Laser - Long range (Grade 2)":{
+        "Sulphur":1,
+        "Modified Consumer Firmware":1
+    },
+    "Beam Laser - Long range (Grade 3)":{
+        "Sulphur":1,
+        "Modified Consumer Firmware":1,
+        "Focus Crystals":1
+    },
+    "Beam Laser - Long range (Grade 4)":{
+        "Modified Consumer Firmware":1,
+        "Focus Crystals":1,
+        "Conductive Polymers":1
+    },
+    "Beam Laser - Long range (Grade 5)":{
+        "Cracked Industrial Firmware":1,
+        "Thermic Alloys":1,
+        "Biotech Conductors":1
+    },
+    "Beam Laser - Short range (Grade 1)":{
+        "Nickel":1
+    },
+    "Beam Laser - Short range (Grade 2)":{
+        "Nickel":1,
+        "Modified Consumer Firmware":1
+    },
+    "Beam Laser - Short range (Grade 3)":{
+        "Nickel":1,
+        "Modified Consumer Firmware":1,
+        "Electrochemical Arrays":1
+    },
+    "Beam Laser - Short range (Grade 4)":{
+        "Modified Consumer Firmware":1,
+        "Electrochemical Arrays":1,
+        "Conductive Polymers":1
+    },
+    "Beam Laser - Short range (Grade 5)":{
+        "Cracked Industrial Firmware":1,
+        "Configurable Components":1,
+        "Biotech Conductors":1
+    },
+    "Beam Laser - Sturdy (Grade 1)":{
+        "Nickel":1
+    },
+    "Beam Laser - Sturdy (Grade 2)":{
+        "Nickel":1,
+        "Shield Emitters":1
+    },
+    "Beam Laser - Sturdy (Grade 3)":{
+        "Nickel":1,
+        "Shield Emitters":1,
+        "Tungsten":1
+    },
+    "Beam Laser - Sturdy (Grade 4)":{
+        "Zinc":1,
+        "Tungsten":1,
+        "Molybdenum":1
+    },
+    "Beam Laser - Sturdy (Grade 5)":{
+        "High Density Composites":1,
+        "Molybdenum":1,
+        "Technetium":1
+    },
+    "Plasma Accelerator - Efficient (Grade 1)":{
+        "Sulphur":1
+    },
+    "Plasma Accelerator - Efficient (Grade 2)":{
+        "Sulphur":1,
+        "Heat Dispersion Plate":1
+    },
+    "Plasma Accelerator - Efficient (Grade 3)":{
+        "Exceptional Scrambled Emission Data":1,
+        "Chromium":1,
+        "Heat Exchangers":1
+    },
+    "Plasma Accelerator - Efficient (Grade 4)":{
+        "Irregular Emission Data":1,
+        "Selenium":1,
+        "Heat Vanes":1
+    },
+    "Plasma Accelerator - Efficient (Grade 5)":{
+        "Unexpected Emission Data":1,
+        "Cadmium":1,
+        "Proto Heat Radiators":1
+    },
+    "Plasma Accelerator - Focused (Grade 1)":{
+        "Iron":1
+    },
+    "Plasma Accelerator - Focused (Grade 2)":{
+        "Iron":1,
+        "Conductive Components":1
+    },
+    "Plasma Accelerator - Focused (Grade 3)":{
+        "Iron":1,
+        "Chromium":1,
+        "Conductive Ceramics":1
+    },
+    "Plasma Accelerator - Focused (Grade 4)":{
+        "Germanium":1,
+        "Focus Crystals":1,
+        "Polymer Capacitors":1
+    },
+    "Plasma Accelerator - Focused (Grade 5)":{
+        "Niobium":1,
+        "Refined Focus Crystals":1,
+        "Military Supercapacitors":1
+    },
+    "Shield Booster - Kinetic resistant (Grade 1)":{
+        "Iron":1
+    },
+    "Shield Booster - Kinetic resistant (Grade 2)":{
+        "Grid Resistors":1,
+        "Germanium":1
+    },
+    "Shield Booster - Kinetic resistant (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Hybrid Capacitors":1,
+        "Focus Crystals":1
+    },
+    "Shield Booster - Kinetic resistant (Grade 4)":{
+        "Galvanising Alloys":1,
+        "Untypical Shield Scans":1,
+        "Refined Focus Crystals":1
+    },
+    "Shield Booster - Kinetic resistant (Grade 5)":{
+        "Phase Alloys":1,
+        "Aberrant Shield Pattern Analysis":1,
+        "Exquisite Focus Crystals":1
+    },
+    "Plasma Accelerator - Overcharged (Grade 1)":{
+        "Nickel":1
+    },
+    "Plasma Accelerator - Overcharged (Grade 2)":{
+        "Nickel":1,
+        "Conductive Components":1
+    },
+    "Plasma Accelerator - Overcharged (Grade 3)":{
+        "Nickel":1,
+        "Conductive Components":1,
+        "Electrochemical Arrays":1
+    },
+    "Plasma Accelerator - Overcharged (Grade 4)":{
+        "Zinc":1,
+        "Conductive Ceramics":1,
+        "Polymer Capacitors":1
+    },
+    "Plasma Accelerator - Overcharged (Grade 5)":{
+        "Zirconium":1,
+        "Conductive Polymers":1,
+        "Modified Embedded Firmware":1
+    },
+    "Plasma Accelerator - Rapid fire (Grade 1)":{
+        "Mechanical Scrap":1
+    },
+    "Plasma Accelerator - Rapid fire (Grade 2)":{
+        "Mechanical Scrap":1,
+        "Heat Dispersion Plate":1
+    },
+    "Plasma Accelerator - Rapid fire (Grade 3)":{
+        "Specialised Legacy Firmware":1,
+        "Mechanical Equipment":1,
+        "Precipitated Alloys":1
+    },
+    "Plasma Accelerator - Rapid fire (Grade 4)":{
+        "Modified Consumer Firmware":1,
+        "Mechanical Components":1,
+        "Thermic Alloys":1
+    },
+    "Plasma Accelerator - Rapid fire (Grade 5)":{
+        "Precipitated Alloys":1,
+        "Configurable Components":1,
+        "Technetium":1
+    },
+    "Plasma Accelerator - Sturdy (Grade 1)":{
+        "Nickel":1
+    },
+    "Plasma Accelerator - Sturdy (Grade 2)":{
+        "Nickel":1,
+        "Shield Emitters":1
+    },
+    "Plasma Accelerator - Sturdy (Grade 3)":{
+        "Nickel":1,
+        "Shield Emitters":1,
+        "Tungsten":1
+    },
+    "Plasma Accelerator - Sturdy (Grade 4)":{
+        "Zinc":1,
+        "Tungsten":1,
+        "Molybdenum":1
+    },
+    "Plasma Accelerator - Sturdy (Grade 5)":{
+        "High Density Composites":1,
+        "Molybdenum":1,
+        "Technetium":1
+    },
+    "Mine Launcher - Lightweight (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Mine Launcher - Lightweight (Grade 2)":{
+        "Salvaged Alloys":1,
+        "Manganese":1
+    },
+    "Mine Launcher - Lightweight (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Manganese":1,
+        "Conductive Ceramics":1
+    },
+    "Mine Launcher - Lightweight (Grade 4)":{
+        "Conductive Components":1,
+        "Phase Alloys":1,
+        "Proto Light Alloys":1
+    },
+    "Mine Launcher - Lightweight (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Proto Light Alloys":1,
+        "Proto Radiolic Alloys":1
+    },
+    "Seeker Missile Rack - Lightweight (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Seeker Missile Rack - Lightweight (Grade 2)":{
+        "Salvaged Alloys":1,
+        "Manganese":1
+    },
+    "Seeker Missile Rack - Lightweight (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Manganese":1,
+        "Conductive Ceramics":1
+    },
+    "Seeker Missile Rack - Lightweight (Grade 4)":{
+        "Conductive Components":1,
+        "Phase Alloys":1,
+        "Proto Light Alloys":1
+    },
+    "Seeker Missile Rack - Lightweight (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Proto Light Alloys":1,
+        "Proto Radiolic Alloys":1
+    },
+    "Torpedo Pylon - Lightweight (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Torpedo Pylon - Lightweight (Grade 2)":{
+        "Salvaged Alloys":1,
+        "Manganese":1
+    },
+    "Torpedo Pylon - Lightweight (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Manganese":1,
+        "Conductive Ceramics":1
+    },
+    "Torpedo Pylon - Lightweight (Grade 4)":{
+        "Conductive Components":1,
+        "Phase Alloys":1,
+        "Proto Light Alloys":1
+    },
+    "Torpedo Pylon - Lightweight (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Proto Light Alloys":1,
+        "Proto Radiolic Alloys":1
+    },
+    "Fragment Cannon - Lightweight (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Fragment Cannon - Lightweight (Grade 2)":{
+        "Salvaged Alloys":1,
+        "Manganese":1
+    },
+    "Fragment Cannon - Lightweight (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Manganese":1,
+        "Conductive Ceramics":1
+    },
+    "Fragment Cannon - Lightweight (Grade 4)":{
+        "Conductive Components":1,
+        "Phase Alloys":1,
+        "Proto Light Alloys":1
+    },
+    "Fragment Cannon - Lightweight (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Proto Light Alloys":1,
+        "Proto Radiolic Alloys":1
+    },
+    "Multi-cannon - Lightweight (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Multi-cannon - Lightweight (Grade 2)":{
+        "Salvaged Alloys":1,
+        "Manganese":1
+    },
+    "Multi-cannon - Lightweight (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Manganese":1,
+        "Conductive Ceramics":1
+    },
+    "Multi-cannon - Lightweight (Grade 4)":{
+        "Conductive Components":1,
+        "Phase Alloys":1,
+        "Proto Light Alloys":1
+    },
+    "Multi-cannon - Lightweight (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Proto Light Alloys":1,
+        "Proto Radiolic Alloys":1
+    },
+    "Rail Gun - Lightweight (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Rail Gun - Lightweight (Grade 2)":{
+        "Salvaged Alloys":1,
+        "Manganese":1
+    },
+    "Rail Gun - Lightweight (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Manganese":1,
+        "Conductive Ceramics":1
+    },
+    "Rail Gun - Lightweight (Grade 4)":{
+        "Conductive Components":1,
+        "Phase Alloys":1,
+        "Proto Light Alloys":1
+    },
+    "Rail Gun - Lightweight (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Proto Light Alloys":1,
+        "Proto Radiolic Alloys":1
+    },
+    "Beam Laser - Lightweight (Grade 1)":{
+        "Phosphorus":1
+    },
+    "Beam Laser - Lightweight (Grade 2)":{
+        "Salvaged Alloys":1,
+        "Manganese":1
+    },
+    "Beam Laser - Lightweight (Grade 3)":{
+        "Salvaged Alloys":1,
+        "Manganese":1,
+        "Conductive Ceramics":1
+    },
+    "Beam Laser - Lightweight (Grade 4)":{
+        "Conductive Components":1,
+        "Phase Alloys":1,
+        "Proto Light Alloys":1
+    },
+    "Beam Laser - Lightweight (Grade 5)":{
+        "Conductive Ceramics":1,
+        "Proto Light Alloys":1,
+        "Proto Radiolic Alloys":1
+    }
+}
